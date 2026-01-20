@@ -305,3 +305,5 @@
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
 /accounts/register/
+/Jakefile
+/Jakefile.js

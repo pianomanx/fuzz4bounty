@@ -1,3 +1,7 @@
 /images/../../../../../../../../etc/passwd
 
 /munin/
+/
+/esm/
+/monitoring/
+/ezservermonitor/
