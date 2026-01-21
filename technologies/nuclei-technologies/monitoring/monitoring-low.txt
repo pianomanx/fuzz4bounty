@@ -2,3 +2,5 @@
 /esm/
 /monitoring/
 /ezservermonitor/
+/xymon/
+/xymon-se/xymon/

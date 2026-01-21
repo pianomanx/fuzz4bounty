@@ -776,3 +776,9 @@
 /ezservermonitor/
 /CFIDE/
 /?list-type=2
+/api/beszel/first-run
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx
+/api/v1/repos/search?q=&limit=50
+/host.json
+/.sqlite_history

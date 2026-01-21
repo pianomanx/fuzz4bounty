@@ -335,3 +335,8 @@
 /esm/
 /monitoring/
 /ezservermonitor/
+/xymon/
+/xymon-se/xymon/
+/explore/repos
+/api/v1/repos/search?q=&limit=50
+/.forward
