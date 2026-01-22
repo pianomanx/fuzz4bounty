@@ -343,3 +343,6 @@
 /cgi-sys/info.cgi
 /scripts/info.cgi
 /lite-scripts/info.cgi
+/App_Data/
+/App_Plugins/
+/sign-up
