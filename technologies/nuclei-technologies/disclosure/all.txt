@@ -201,3 +201,4 @@
 /scripts/info.cgi
 /lite-scripts/info.cgi
 /.p4ignore
+/.testignore
