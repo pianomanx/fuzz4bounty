@@ -702,3 +702,4 @@
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /user/login
+/api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://oast.live

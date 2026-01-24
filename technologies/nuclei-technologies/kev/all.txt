@@ -146,3 +146,4 @@
 /api/v1/config/application?public=true
 /resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf
 /user/login
+/h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml

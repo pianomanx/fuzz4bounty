@@ -49,3 +49,4 @@
 /geoserver/wfs?service=WMS&request=GetMap
 /wfs?service=WMS&request=GetMap
 /user/login
+/h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml

@@ -202,3 +202,7 @@
 /lite-scripts/info.cgi
 /.p4ignore
 /.testignore
+/issues.json
+/issues.json?limit=25
+/Users/Public
+/jellyfin/Users/Public
