@@ -311,3 +311,5 @@
 /_layouts/Authenticate.aspx
 /projects/
 /.testignore
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf
