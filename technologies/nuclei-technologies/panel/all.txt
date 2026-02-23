@@ -860,3 +860,4 @@
 /sapmc/sapmc.html
 /settings/plugins
 /settings/cluster
+/#!/welcome

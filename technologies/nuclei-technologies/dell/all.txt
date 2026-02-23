@@ -10,3 +10,4 @@
 /data?get=prodServerGen
 /sysmgmt/2015/bmc/info
 /
+/#!/welcome

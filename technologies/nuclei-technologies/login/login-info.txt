@@ -314,3 +314,4 @@
 /api/config
 /opensearch.xml
 /sapmc/sapmc.html
+/#!/welcome
