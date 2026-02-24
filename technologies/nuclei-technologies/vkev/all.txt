@@ -727,3 +727,4 @@
 /index.astro.mjs.map
 /_image?href=//{{interactsh-url}}/600x400
 /{{trim_prefix(update_uri,
+/php/ping.php
