@@ -2,3 +2,4 @@
 
 {{js}}
 /.well-known/ai-plugin.json
+/login
