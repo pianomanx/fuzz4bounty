@@ -284,3 +284,4 @@
 /{{externalAuthContainer}}
 /helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
 /{{trim_prefix(update_uri,
+/php/ping.php
