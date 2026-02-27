@@ -53,3 +53,5 @@
 /wp-json/lp/v1/orders/statistic
 /wp-admin/admin-ajax.php?action=tsml_info
 /wp-admin/admin-ajax.php?action=tsml_geocodes
+/index.html
+/examples/control.html?room=%3Cimg%20src=x%20onerror=alert(document.domain)%3E

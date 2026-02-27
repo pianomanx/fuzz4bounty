@@ -1,0 +1,2 @@
+/gradio_api/file=http://example.com
+/file=http://example.com

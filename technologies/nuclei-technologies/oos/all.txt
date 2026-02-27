@@ -5,3 +5,5 @@
 /pictureproxy.php?url=http://{{interactsh-url}}
 /auth/login
 /icinga2
+/gradio_api/file=http://example.com
+/file=http://example.com

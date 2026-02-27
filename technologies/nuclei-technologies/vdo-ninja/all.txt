@@ -1,0 +1,2 @@
+/index.html
+/examples/control.html?room=%3Cimg%20src=x%20onerror=alert(document.domain)%3E

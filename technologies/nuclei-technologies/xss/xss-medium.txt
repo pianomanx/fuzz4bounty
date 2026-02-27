@@ -669,3 +669,5 @@
 /
 /wp-json/wp/v2/wprm_recipe?per_page=5
 /?wprm_print={{recipe_id}}
+/index.html
+/examples/control.html?room=%3Cimg%20src=x%20onerror=alert(document.domain)%3E
