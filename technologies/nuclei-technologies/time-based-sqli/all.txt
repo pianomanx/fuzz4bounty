@@ -2,3 +2,5 @@
 /wp-content/plugins/mstore-api/readme.txt
 /wp-content/plugins/wp-fastest-cache/readme.txt
 /wp-content/plugins/LayerSlider/assets/static/public/front.css
+
+/wp-content/plugins/email-subscribers/readme.txt

@@ -1,2 +1,4 @@
 /admin/suppliers/view_details.php?id=1
 /wp-content/plugins/mstore-api/readme.txt
+
+/wp-content/plugins/email-subscribers/readme.txt

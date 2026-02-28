@@ -850,3 +850,4 @@
 /wp-admin/admin-ajax.php?action=tsml_info
 /wp-admin/admin-ajax.php?action=tsml_geocodes
 /wp-content/ewww/debug.log
+/wp-content/plugins/email-subscribers/readme.txt
