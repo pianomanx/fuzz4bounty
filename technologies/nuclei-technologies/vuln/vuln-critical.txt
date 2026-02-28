@@ -492,3 +492,4 @@
 /common/dept.jsp?deptid=1
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))
 /displays/nuclei_check.json
+/wp-content/plugins/email-subscribers/readme.txt
