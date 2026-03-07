@@ -154,3 +154,4 @@
 /{{externalAuthContainer}}
 /helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
 /%2e%2e/%2e%2e/etc/passwd
+/system/deviceInfo?auth=YWRtaW46MTEK
