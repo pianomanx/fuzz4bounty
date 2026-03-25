@@ -736,3 +736,4 @@
 /cgi-bin/Maconomy/MaconomyWS.macx1.W_MCS//etc/passwd
 /loginok.html
 /api/backup
+/_next/static/../server/pages-manifest.json
