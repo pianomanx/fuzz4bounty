@@ -341,3 +341,4 @@
 /?wpedon-stripe-checkout-redirect=1&sk=nucleitest&ai=nucleitest&si=nucleitest&rf=//oast.pro
 /api/v1/monitor/messages
 /web/%2Finteract.sh:443
+{{pagepath}}
