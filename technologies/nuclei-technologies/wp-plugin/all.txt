@@ -859,3 +859,4 @@
 /?s=codepeople-image-store&post_type=page&feed=rss2
 /?wpedon-stripe-checkout-redirect=1&sk=nucleitest&ai=nucleitest&si=nucleitest&rf=//oast.pro
 {{pagepath}}
+/wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
