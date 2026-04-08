@@ -402,3 +402,4 @@
 /v1/users/image?path=/var/lib/casaos/1/system.json
 /icingaweb2/setup
 /setup/register
+/config/

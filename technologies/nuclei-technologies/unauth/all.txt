@@ -355,3 +355,4 @@
 /api/v1/workflows/argo
 /setup/register
 /flows
+/config/
