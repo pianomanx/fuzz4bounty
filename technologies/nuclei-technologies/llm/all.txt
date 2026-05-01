@@ -3,3 +3,4 @@
 /sse
 /login
 /api/v1/version
+/v1/models

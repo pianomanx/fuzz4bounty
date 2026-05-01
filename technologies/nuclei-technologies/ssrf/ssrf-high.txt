@@ -34,3 +34,4 @@
 /
 /rest/tinymce/1/macro/preview
 /rest/api/content/macro/preview
+/v1/models

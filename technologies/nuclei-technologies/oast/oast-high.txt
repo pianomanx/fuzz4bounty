@@ -17,3 +17,4 @@
 /_internal/redirect.php?url=http://{{interactsh-url}}
 /
 /api/status
+/v1/models
