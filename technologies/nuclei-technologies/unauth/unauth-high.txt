@@ -147,3 +147,5 @@
 /installation/onboarding
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
 /v1/models
+/project/default
+/api/platform/profile

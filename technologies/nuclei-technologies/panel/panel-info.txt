@@ -822,3 +822,4 @@
 /fsa/login
 /admin-console/signin
 /admin/login/?next=/
+/_login

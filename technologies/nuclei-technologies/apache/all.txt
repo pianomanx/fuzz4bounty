@@ -157,3 +157,4 @@
 /syncope-console/
 /q/metrics
 /starter.html
+/health

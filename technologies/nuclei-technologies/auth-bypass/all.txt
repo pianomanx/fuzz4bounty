@@ -98,3 +98,4 @@
 /rest/users/1
 /api/v1/monitor/messages
 /api/v1/nvidia-nim/get-token
+/api/persons/latest?bypass=/api/public

@@ -77,3 +77,4 @@
 /syncope-wa/
 /syncope-console/
 /starter.html
+/health

@@ -657,3 +657,4 @@
 /web/#/user/login
 /docs/swagger-ui-init.js
 /fsa/login
+/health

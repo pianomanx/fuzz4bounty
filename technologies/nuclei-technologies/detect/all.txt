@@ -373,3 +373,7 @@
 /starter.html
 /api/v1/version
 /admin-console/signin
+/ui
+/accounts/login/
+/_login
+/health

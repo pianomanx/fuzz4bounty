@@ -872,3 +872,6 @@
 /fsa/login
 /admin-console/signin
 /admin/login/?next=/
+/project/default
+/api/platform/profile
+/_login

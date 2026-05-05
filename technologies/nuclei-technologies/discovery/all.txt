@@ -1447,3 +1447,4 @@
 /api/v1/version
 /ng/login?returnUrl=%2F
 /admin/login/?next=/
+/_login

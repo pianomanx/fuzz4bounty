@@ -1474,3 +1474,5 @@
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
 /api/v1/user/public-user-list
 /scripts/weglot.js
+/project/default
+/api/platform/profile

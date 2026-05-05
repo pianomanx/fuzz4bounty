@@ -2,3 +2,4 @@
 /jobs/
 :4040/jobs/
 /sapmc/sapmc.html
+/ui

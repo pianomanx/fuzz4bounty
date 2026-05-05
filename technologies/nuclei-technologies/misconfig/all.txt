@@ -853,3 +853,5 @@
 /cgi-bin/J100WebServer.cgi?Operation=0
 /admin/setup
 /scripts/weglot.js
+/project/default
+/api/platform/profile
