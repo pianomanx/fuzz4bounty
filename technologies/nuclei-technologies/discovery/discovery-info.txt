@@ -1384,3 +1384,6 @@
 /ng/login?returnUrl=%2F
 /admin/login/?next=/
 /_login
+/fsa/login
+/api/app/about
+/_localstack/health

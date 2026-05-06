@@ -12,3 +12,4 @@
 /.aws/config
 /index.html
 /static/Dockerrun.aws.json
+/_localstack/health

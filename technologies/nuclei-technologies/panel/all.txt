@@ -875,3 +875,6 @@
 /project/default
 /api/platform/profile
 /_login
+/api/v1/health
+/api/app/about
+/ui/console/

@@ -3,3 +3,4 @@
 /v1/tasks
 /?torrent
 /%c0
+/_localstack/health

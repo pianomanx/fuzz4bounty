@@ -19,3 +19,6 @@
 /asf/terminal
 /
 /{{trim_prefix(update_uri,
+/admin/login
+/authentication/login
+/login

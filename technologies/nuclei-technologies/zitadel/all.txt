@@ -1,1 +1,2 @@
 /ui/login/register
+/ui/console/

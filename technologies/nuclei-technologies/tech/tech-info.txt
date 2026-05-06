@@ -658,3 +658,5 @@
 /docs/swagger-ui-init.js
 /fsa/login
 /health
+/ng/login?returnUrl=%2F
+/_localstack/health

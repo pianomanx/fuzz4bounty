@@ -823,3 +823,6 @@
 /admin-console/signin
 /admin/login/?next=/
 /_login
+/api/v1/health
+/api/app/about
+/ui/console/

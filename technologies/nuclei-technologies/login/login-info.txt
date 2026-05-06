@@ -323,3 +323,6 @@
 /ng/login?returnUrl=%2F
 /admin/login/?next=/
 /_login
+/api/v1/health
+/fsa/login
+/authentication/login

@@ -758,3 +758,4 @@
 /wp-json/mrm/v1/wp/admins?term=@
 /v1/models
 /api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow
+/wp-content/plugins/LayerSlider/assets/static/public/front.css

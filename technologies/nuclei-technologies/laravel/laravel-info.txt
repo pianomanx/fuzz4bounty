@@ -2,3 +2,6 @@
 
 /composer.json
 /composer.lock
+/admin/login
+/authentication/login
+/login

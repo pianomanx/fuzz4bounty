@@ -263,3 +263,4 @@
 /_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
 /wp-json/mrm/v1/wp/admins?term=@
 /v1/models
+/wp-content/plugins/LayerSlider/assets/static/public/front.css
