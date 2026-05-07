@@ -69,3 +69,4 @@
 /v1/users/image?path=/var/lib/casaos/1/system.json
 /wp-content/plugins/clean-login/readme.txt
 /?p={{postid}}
+/api/jolokia/search/org.apache.activemq:type=Broker,*

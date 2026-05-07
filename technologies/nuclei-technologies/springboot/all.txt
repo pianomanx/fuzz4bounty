@@ -80,3 +80,5 @@
 /gateway/routes
 /actuator/gateway/routes
 /
+/httpexchanges
+/actuator/httpexchanges

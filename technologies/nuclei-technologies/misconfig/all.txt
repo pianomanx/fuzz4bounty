@@ -855,3 +855,5 @@
 /scripts/weglot.js
 /project/default
 /api/platform/profile
+/httpexchanges
+/actuator/httpexchanges

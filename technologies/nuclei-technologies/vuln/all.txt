@@ -3874,3 +3874,5 @@
 /web/login?db=asdf&redirect=http://interact.sh
 /custom-component-collections.html
 /{{js-bundle}}
+/httpexchanges
+/actuator/httpexchanges

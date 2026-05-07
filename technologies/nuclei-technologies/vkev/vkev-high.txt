@@ -264,3 +264,4 @@
 /wp-json/mrm/v1/wp/admins?term=@
 /v1/models
 /wp-content/plugins/LayerSlider/assets/static/public/front.css
+/api/jolokia/search/org.apache.activemq:type=Broker,*

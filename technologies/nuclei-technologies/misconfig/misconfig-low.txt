@@ -232,3 +232,5 @@
 /api/graphql
 /v1/graphql
 /query
+/httpexchanges
+/actuator/httpexchanges

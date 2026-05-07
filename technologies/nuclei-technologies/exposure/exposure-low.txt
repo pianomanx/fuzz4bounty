@@ -357,3 +357,5 @@
 /query
 /dashboard/env-config.js
 /api/v1/user/public-user-list
+/httpexchanges
+/actuator/httpexchanges

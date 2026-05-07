@@ -1,1 +1,2 @@
 /console/auth/login
+/api/jolokia/search/org.apache.activemq:type=Broker,*

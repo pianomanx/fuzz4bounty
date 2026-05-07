@@ -42,3 +42,5 @@
 /threaddump
 /actuator/threaddump
 /trace
+/httpexchanges
+/actuator/httpexchanges
