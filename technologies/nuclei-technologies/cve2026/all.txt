@@ -62,3 +62,4 @@
 /{{randstr}}
 /?session_expired=true&redirect=http://evil.com
 /enter?redirect=oast.me&foo=bar
+/api/v1/build_public_tmp/{{uuid}}/flow
