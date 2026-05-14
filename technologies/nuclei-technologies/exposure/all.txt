@@ -1482,3 +1482,8 @@
 /api/v1/consolidated-api/view
 /api/v1/users/features
 /api/v1/tenants/current
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application
+/model/info

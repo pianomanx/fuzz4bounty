@@ -11,3 +11,4 @@
 /api/v1/version
 /api/persons/latest?bypass=/api/public
 /api/v1/build_public_tmp/{{uuid}}/flow
+/importer

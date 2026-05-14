@@ -65,3 +65,4 @@
 /?s=codepeople-image-store&post_type=page&feed=rss2
 /api/v1/monitor/messages
 {{pagepath}}
+/importer
