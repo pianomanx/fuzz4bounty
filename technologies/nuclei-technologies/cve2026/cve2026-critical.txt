@@ -12,3 +12,5 @@
 /api/persons/latest?bypass=/api/public
 /api/v1/build_public_tmp/{{uuid}}/flow
 /importer
+/cors?url=http://127.0.0.1:8080/version
+/cors?url=http://{{interactsh-url}}/version

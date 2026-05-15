@@ -383,3 +383,5 @@
 /ui/console/
 /_localstack/health
 /api/public/health
+/console/welcome
+/rest/v2/cache-managers/default

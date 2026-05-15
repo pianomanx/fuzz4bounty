@@ -2171,3 +2171,5 @@
 /api/v1/build_public_tmp/{{uuid}}/flow
 /list_personalities?category=../..
 /importer
+/cors?url=http://127.0.0.1:8080/version
+/cors?url=http://{{interactsh-url}}/version
