@@ -385,3 +385,4 @@
 /api/public/health
 /console/welcome
 /rest/v2/cache-managers/default
+/api/status

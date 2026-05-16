@@ -66,3 +66,6 @@
 /importer
 /cors?url=http://127.0.0.1:8080/version
 /cors?url=http://{{interactsh-url}}/version
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
