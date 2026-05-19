@@ -386,3 +386,5 @@
 /console/welcome
 /rest/v2/cache-managers/default
 /api/status
+/web_whw/
+/web_whw/overview
