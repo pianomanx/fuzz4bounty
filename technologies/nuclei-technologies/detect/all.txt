@@ -388,3 +388,4 @@
 /api/status
 /web_whw/
 /web_whw/overview
+/xtraction
