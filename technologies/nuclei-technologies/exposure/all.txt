@@ -1487,3 +1487,4 @@
 /sbom/application
 /actuator/sbom/application
 /model/info
+/setup-database-info
