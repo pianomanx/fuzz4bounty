@@ -3,3 +3,8 @@
 /logo_login.shtm?!App-Language=1
 /start.html
 /boss/
+/AccessAnywhere/start.html
+/landingpage
+/landingpage/
+
+/webstation/

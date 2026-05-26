@@ -1488,3 +1488,5 @@
 /actuator/sbom/application
 /model/info
 /setup-database-info
+/api/badge/1/ping/24
+/hazelcast/rest/cluster

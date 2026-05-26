@@ -675,3 +675,5 @@
 /rest/v2/cache-managers/default
 /explore/users/sitemap-1.xml
 /xtraction
+/landingpage
+/landingpage/

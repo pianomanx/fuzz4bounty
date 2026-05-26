@@ -69,3 +69,4 @@
 /contact
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
+/api/badge/1/ping/24

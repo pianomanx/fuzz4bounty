@@ -389,3 +389,6 @@
 /web_whw/
 /web_whw/overview
 /xtraction
+/landingpage
+/landingpage/
+/hub/login
