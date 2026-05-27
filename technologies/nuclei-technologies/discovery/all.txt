@@ -1455,3 +1455,4 @@
 /web_whw/overview
 /AccessAnywhere/start.html
 /webstation/
+/HMI/login.html

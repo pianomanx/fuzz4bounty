@@ -329,3 +329,4 @@
 /api/public/health
 /web_whw/
 /web_whw/overview
+/HMI/login.html

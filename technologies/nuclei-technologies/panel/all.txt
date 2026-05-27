@@ -885,3 +885,4 @@
 /landingpage
 /landingpage/
 /webstation/
+/HMI/login.html
