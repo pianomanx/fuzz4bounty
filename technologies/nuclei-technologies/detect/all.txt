@@ -393,3 +393,5 @@
 /landingpage/
 /hub/login
 /HMI/login.html
+/ui/index.html
+/?route=signin

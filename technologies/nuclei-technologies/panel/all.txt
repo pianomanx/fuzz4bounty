@@ -886,3 +886,4 @@
 /landingpage/
 /webstation/
 /HMI/login.html
+/?route=signin

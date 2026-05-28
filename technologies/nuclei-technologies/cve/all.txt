@@ -2184,3 +2184,5 @@
 /streams/v1/polyaxon/default/s/runs/%2e%2e/artifact?stream=true&path=../../../../etc/passwd
 /api/badge/1/ping/24
 /?BazaR&vue=formulaire
+/rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
+/wp-content/plugins/burst-statistics/readme.txt

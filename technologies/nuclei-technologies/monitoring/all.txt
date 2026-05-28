@@ -7,3 +7,4 @@
 /ezservermonitor/
 /xymon/
 /xymon-se/xymon/
+/pulse

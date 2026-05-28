@@ -1490,3 +1490,11 @@
 /setup-database-info
 /api/badge/1/ping/24
 /hazelcast/rest/cluster
+/nova/dashboards/main
+/nova/resources
+/storage/oauth-private.key
+/storage/oauth-public.key
+/dashboard/index.html
+/pdb/query/v4/facts
+/_ignition/logs
+/__clockwork

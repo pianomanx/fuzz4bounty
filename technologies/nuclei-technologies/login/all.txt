@@ -331,3 +331,5 @@
 /web_whw/
 /web_whw/overview
 /HMI/login.html
+/ui/index.html
+/?route=signin

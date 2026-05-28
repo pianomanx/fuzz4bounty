@@ -389,3 +389,6 @@
 /model/info
 /api/badge/1/ping/24
 /hazelcast/rest/cluster
+/_ignition/logs
+/__clockwork
+/_debugbar/open
