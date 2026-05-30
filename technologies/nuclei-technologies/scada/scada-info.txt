@@ -1,3 +1,4 @@
 /AccessAnywhere/start.html
 /landingpage
 /landingpage/
+/broadWeb/bwRoot.asp

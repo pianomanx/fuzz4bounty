@@ -835,3 +835,4 @@
 /webstation/
 /HMI/login.html
 /?route=signin
+/broadWeb/bwRoot.asp

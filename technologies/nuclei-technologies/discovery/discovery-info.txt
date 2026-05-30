@@ -1392,3 +1392,4 @@
 /AccessAnywhere/start.html
 /webstation/
 /HMI/login.html
+/broadWeb/bwRoot.asp

@@ -8,3 +8,4 @@
 /landingpage/
 
 /webstation/
+/broadWeb/bwRoot.asp
