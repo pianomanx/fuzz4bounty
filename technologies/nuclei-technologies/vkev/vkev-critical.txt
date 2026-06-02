@@ -303,3 +303,5 @@
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-json/wp/v2/users
+/global-protect/login.esp
+/sslmgr

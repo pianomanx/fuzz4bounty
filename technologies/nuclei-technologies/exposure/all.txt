@@ -1498,3 +1498,4 @@
 /pdb/query/v4/facts
 /_ignition/logs
 /__clockwork
+/autopass

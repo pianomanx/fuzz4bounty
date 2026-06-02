@@ -1,4 +1,2 @@
-/remote/login
-/login
 /global-protect/login.esp
 /sslmgr

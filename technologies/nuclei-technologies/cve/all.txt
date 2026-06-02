@@ -2186,3 +2186,6 @@
 /?BazaR&vue=formulaire
 /rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
 /wp-content/plugins/burst-statistics/readme.txt
+/wp-sitemap-posts-joomsport_season-1.xml
+/global-protect/login.esp
+/sslmgr

@@ -20,3 +20,6 @@
 /?BazaR&vue=formulaire
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-json/wp/v2/users
+/wp-sitemap-posts-joomsport_season-1.xml
+/global-protect/login.esp
+/sslmgr
