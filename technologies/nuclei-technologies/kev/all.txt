@@ -171,3 +171,4 @@
 /wp-sitemap-posts-joomsport_season-1.xml
 /global-protect/login.esp
 /sslmgr
+/wp-content/plugins/woocommerce-delivery-notes/readme.txt

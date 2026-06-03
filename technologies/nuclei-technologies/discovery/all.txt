@@ -1457,3 +1457,5 @@
 /webstation/
 /HMI/login.html
 /broadWeb/bwRoot.asp
+/.well-known/agent-card.json
+/.well-known/agent.json
