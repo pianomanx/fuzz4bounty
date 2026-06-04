@@ -57,3 +57,4 @@
 /wp-json/wp/v2/users
 /global-protect/login.esp
 /sslmgr
+/de2api/user/info

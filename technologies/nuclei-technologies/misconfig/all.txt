@@ -869,3 +869,4 @@
 /__clockwork
 /pulse
 /autopass
+/api/v1/retrieval/

@@ -392,3 +392,4 @@
 /_ignition/logs
 /__clockwork
 /_debugbar/open
+/api/v1/retrieval/

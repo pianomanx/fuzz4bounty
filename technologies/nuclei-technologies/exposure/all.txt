@@ -1499,3 +1499,4 @@
 /_ignition/logs
 /__clockwork
 /autopass
+/api/v1/retrieval/

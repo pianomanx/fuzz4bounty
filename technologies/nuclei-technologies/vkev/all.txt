@@ -771,3 +771,4 @@
 /global-protect/login.esp
 /sslmgr
 /wp-sitemap-posts-joomsport_season-1.xml
+/wp-content/plugins/woocommerce-delivery-notes/readme.txt
