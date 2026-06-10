@@ -53,3 +53,5 @@
 /wp-json/wp/v2/users
 /wp-sitemap-posts-joomsport_season-1.xml
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
+/wp-content/plugins/armember-membership/readme.txt
+/index.php?rest_route=/wp/v2/pages&per_page=100

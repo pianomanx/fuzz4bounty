@@ -772,3 +772,4 @@
 /sslmgr
 /wp-sitemap-posts-joomsport_season-1.xml
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
+/wp-content/plugins/armember-membership/readme.txt

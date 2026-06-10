@@ -104,3 +104,5 @@
 /global-protect/login.esp
 /sslmgr
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
+/wp-content/plugins/armember-membership/readme.txt
+/index.php?rest_route=/wp/v2/pages&per_page=100

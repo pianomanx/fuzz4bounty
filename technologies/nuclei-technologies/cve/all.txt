@@ -2201,3 +2201,4 @@
 /docs/api
 /speedtest?url={{interactsh-url}}
 /api/v1/retrieval/
+/wp-content/plugins/armember-membership/readme.txt
