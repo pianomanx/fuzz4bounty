@@ -100,3 +100,4 @@
 /wp-content/plugins/bookit/readme.txt
 /?BazaR&vue=formulaire
 /{{paths}}/
+/wp-content/plugins/hippoo/readme.txt

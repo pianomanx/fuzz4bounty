@@ -59,3 +59,4 @@
 /update/../admin/diagnostic.jsp
 /v1/models
 /api/jolokia/search/org.apache.activemq:type=Broker,*
+/agents

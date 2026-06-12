@@ -393,3 +393,4 @@
 /__clockwork
 /_debugbar/open
 /api/v1/retrieval/
+/api/agents

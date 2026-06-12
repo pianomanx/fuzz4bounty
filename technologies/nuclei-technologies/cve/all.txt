@@ -2202,3 +2202,10 @@
 /speedtest?url={{interactsh-url}}
 /api/v1/retrieval/
 /wp-content/plugins/armember-membership/readme.txt
+/wp-content/plugins/hippoo/readme.txt
+/wp-content/plugins/everest-forms-pro/readme.txt
+/debug/vars
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php
+/agents
+/api/agents

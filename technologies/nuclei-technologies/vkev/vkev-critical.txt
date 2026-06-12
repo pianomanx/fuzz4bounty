@@ -309,3 +309,5 @@
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /wp-content/plugins/armember-membership/readme.txt
 /index.php?rest_route=/wp/v2/pages&per_page=100
+/wp-content/plugins/everest-forms-pro/readme.txt
+/wp-json/wp/v2/pages?per_page=100
