@@ -1076,3 +1076,5 @@
 /wp-content/plugins/everest-forms-pro/readme.txt
 /?hippoo_serve=../../../../../../../etc/passwd
 /?hippoo_serve=../../../../wp-config.php
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log
