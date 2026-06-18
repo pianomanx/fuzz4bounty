@@ -1504,3 +1504,5 @@
 /api/agents
 /wp-content/cache/log/000000/pagecache.log
 /wp-content/cache/log/000000/minify.log
+/GoogleService-Info.plist
+/auth

@@ -890,3 +890,5 @@
 /broadWeb/bwRoot.asp
 /autopass
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
+/wmroot/
+/integration/
