@@ -91,3 +91,4 @@
 /debug/vars
 /agents
 /api/agents
+/api/project

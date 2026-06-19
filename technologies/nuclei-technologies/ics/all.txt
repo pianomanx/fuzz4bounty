@@ -10,3 +10,4 @@
 
 /webstation/
 /broadWeb/bwRoot.asp
+/api/project

@@ -10,3 +10,4 @@
 /landingpage
 /landingpage/
 /broadWeb/bwRoot.asp
+/api/project

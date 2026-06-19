@@ -1506,3 +1506,4 @@
 /wp-content/cache/log/000000/minify.log
 /GoogleService-Info.plist
 /auth
+/api/project
