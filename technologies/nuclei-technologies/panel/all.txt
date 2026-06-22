@@ -892,3 +892,4 @@
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
 /wmroot/
 /integration/
+/mixpost/login

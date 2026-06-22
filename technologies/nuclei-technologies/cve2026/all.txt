@@ -92,3 +92,5 @@
 /agents
 /api/agents
 /api/project
+/healthz
+/workspace?url=javascript%3Aalert%28document.domain%29
