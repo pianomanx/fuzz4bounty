@@ -2216,3 +2216,4 @@
 /api/project
 /healthz
 /workspace?url=javascript%3Aalert%28document.domain%29
+/media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}

@@ -101,3 +101,4 @@
 /?BazaR&vue=formulaire
 /{{paths}}/
 /wp-content/plugins/hippoo/readme.txt
+/media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
