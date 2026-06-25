@@ -401,3 +401,5 @@
 /wp-json/wp/v2/pages?per_page=100
 /api/project
 /media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
+/api/v1/repos/search?limit=1
+/api/v1/orgs/{{orgname}}
