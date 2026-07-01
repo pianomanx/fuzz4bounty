@@ -75,3 +75,4 @@
 /admin/install
 /installation/onboarding
 /admin/setup
+/installer/

