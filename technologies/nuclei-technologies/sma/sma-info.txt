@@ -1,3 +1,2 @@
-/common/setup.php
 /api/version
 /login
