@@ -11,3 +11,4 @@
 /login_up.php
 /login.action
 /api/v1/version
+/pages/sdcall/Login.jsp

@@ -419,3 +419,6 @@
 /api/global/configs/checklist
 /api/project
 /papi/em/transform/getEmDsList
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php

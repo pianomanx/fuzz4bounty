@@ -1278,3 +1278,6 @@
 /{{js-bundle}}
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /installer/
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php

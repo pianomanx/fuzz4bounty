@@ -3882,3 +3882,6 @@
 /lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /installer/
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php

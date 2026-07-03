@@ -1510,3 +1510,6 @@
 /papi/em/transform/getEmDsList
 /api/v1/repos/search?limit=1
 /api/v1/orgs/{{orgname}}
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php
