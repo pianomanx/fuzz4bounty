@@ -4936,6 +4936,7 @@ dat.zip
 data
 data-nseries.tsv
 data.mdb
+data.php
 data.sql
 data.sqlite
 data.tsv
