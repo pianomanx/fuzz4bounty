@@ -843,3 +843,4 @@
 /mixpost/login
 /screens/wms/wms.cgi
 /admin/admin.html
+/manager/
