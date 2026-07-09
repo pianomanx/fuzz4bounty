@@ -85,3 +85,4 @@
 /installation/onboarding
 /admin/setup
 /installer/
+/install/page_start.php
