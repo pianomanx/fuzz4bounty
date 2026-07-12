@@ -397,3 +397,4 @@
 /?route=signin
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
 /admin/admin.html
+/manager/

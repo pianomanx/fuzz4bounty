@@ -1281,3 +1281,4 @@
 /installer/
 /upload/setup/install.php
 /setup/install.php
+/install/page_start.php
