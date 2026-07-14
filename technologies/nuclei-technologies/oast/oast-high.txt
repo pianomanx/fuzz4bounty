@@ -18,3 +18,7 @@
 /
 /api/status
 /v1/models
+
+{{chunk_path}}
+/_next/image?w=16&q=10&url=http://{{interactsh-url}}
+/_next/image?w=16&q=10&url=https://{{interactsh-url}}

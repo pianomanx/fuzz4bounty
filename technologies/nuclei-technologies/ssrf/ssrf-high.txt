@@ -36,3 +36,5 @@
 /rest/api/content/macro/preview
 /v1/models
 /{{randstr}}
+
+{{chunk_path}}

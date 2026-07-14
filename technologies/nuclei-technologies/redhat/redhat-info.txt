@@ -8,3 +8,5 @@
 /users/login
 /console/welcome
 /rest/v2/cache-managers/default
+/admin
+/admin/master/console/

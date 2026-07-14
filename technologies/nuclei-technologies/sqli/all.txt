@@ -152,3 +152,4 @@
 /lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
 /wp-content/plugins/armember-membership/readme.txt
 /index.php?rest_route=/wp/v2/pages&per_page=100
+/wp-content/themes/xstore/style.css

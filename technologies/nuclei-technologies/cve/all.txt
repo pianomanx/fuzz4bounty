@@ -2221,3 +2221,6 @@
 /api/v1/orgs/{{orgname}}
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /NoSuchPage/widget?id=%22%20onmouseover=%22alert(document.domain)%22%20x=%22
+/models
+{{chunk_path}}
+/wp-content/themes/xstore/style.css

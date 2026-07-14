@@ -341,3 +341,4 @@
 /manager/html
 /docs/
 /examples/
+/ui/login?from=/dashboards

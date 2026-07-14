@@ -106,3 +106,4 @@
 /sslmgr
 /de2api/user/info
 /agents
+/models

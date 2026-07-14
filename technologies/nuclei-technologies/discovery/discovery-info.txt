@@ -1397,3 +1397,5 @@
 /.well-known/agent.json
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
 /mixpost/login
+/ui/login?from=/dashboards
+/admin/master/console/

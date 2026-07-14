@@ -35,3 +35,4 @@
 /agents
 /api/project
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/wp-content/themes/xstore/style.css
