@@ -2224,3 +2224,4 @@
 /models
 {{chunk_path}}
 /wp-content/themes/xstore/style.css
+/examples/jsp/num/numguess.jsp?guess=5&hint=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
