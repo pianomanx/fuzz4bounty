@@ -266,3 +266,5 @@
 /wp-content/plugins/LayerSlider/assets/static/public/front.css
 /api/jolokia/search/org.apache.activemq:type=Broker,*
 /agents
+/index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/api/modular-connector/login/{{string}}/?origin=mo&type=foo

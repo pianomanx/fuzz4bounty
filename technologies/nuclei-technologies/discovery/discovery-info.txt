@@ -1399,3 +1399,4 @@
 /mixpost/login
 /ui/login?from=/dashboards
 /admin/master/console/
+/fo/login.php

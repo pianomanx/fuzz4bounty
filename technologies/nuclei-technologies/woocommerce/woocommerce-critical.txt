@@ -2,3 +2,5 @@
 /my-account/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 /?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 /wp-content/plugins/hippoo/readme.txt
+/wp-admin/admin-ajax.php
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt

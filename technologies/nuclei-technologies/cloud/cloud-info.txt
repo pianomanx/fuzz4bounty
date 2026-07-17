@@ -3,3 +3,4 @@
 /.config/gcloud/configurations/config_default
 /_localstack/health
 
+/fo/login.php

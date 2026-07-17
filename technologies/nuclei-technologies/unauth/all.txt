@@ -404,3 +404,8 @@
 /api/v1/repos/search?limit=1
 /api/v1/orgs/{{orgname}}
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/wp-admin/admin-ajax.php
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/?rest_route=/wpgmza/v1/markers/1/
+/?rest_route=/wpgmza/v1/markers/2/
+/?rest_route=/wpgmza/v1/markers/3/

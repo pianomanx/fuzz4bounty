@@ -130,3 +130,6 @@
 /plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /Lw/session/
 /pulse
+/?rest_route=/wpgmza/v1/markers/1/
+/?rest_route=/wpgmza/v1/markers/2/
+/?rest_route=/wpgmza/v1/markers/3/

@@ -897,3 +897,9 @@
 /wp-content/cache/log/000000/pagecache.log
 /wp-content/cache/log/000000/minify.log
 /wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/?rest_route=/wpgmza/v1/markers/1/
+/?rest_route=/wpgmza/v1/markers/2/
+/?rest_route=/wpgmza/v1/markers/3/

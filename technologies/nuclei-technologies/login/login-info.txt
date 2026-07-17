@@ -341,3 +341,4 @@
 /docs/
 /examples/
 /ui/login?from=/dashboards
+/fo/login.php

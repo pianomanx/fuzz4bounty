@@ -228,3 +228,6 @@
 /wp-json/wp/v2/pages?per_page=100
 /media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
 /models
+/wp-admin/admin-ajax.php
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/actuator/jolokia/list

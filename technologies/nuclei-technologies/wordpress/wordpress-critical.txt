@@ -65,3 +65,5 @@
 /wp-content/plugins/hippoo/readme.txt
 /wp-content/plugins/everest-forms-pro/readme.txt
 /wp-json/wp/v2/pages?per_page=100
+/wp-admin/admin-ajax.php
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt

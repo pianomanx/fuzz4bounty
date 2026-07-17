@@ -1,3 +1,4 @@
 /jolokia/list
 /jolokia/read/Users:database=UserDatabase,type=UserDatabase
 /actuator/jolokia/read/Users:database=UserDatabase,type=UserDatabase
+/actuator/jolokia/list
