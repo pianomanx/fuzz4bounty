@@ -58,3 +58,4 @@
 /de2api/user/info
 /global-protect/login.esp
 /sslmgr
+/models

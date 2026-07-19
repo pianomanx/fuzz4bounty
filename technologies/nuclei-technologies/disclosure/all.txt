@@ -214,3 +214,6 @@
 /api/v1/users/features
 /api/v1/tenants/current
 /papi/em/transform/getEmDsList
+/?rest_route=/wpgmza/v1/markers/1/
+/?rest_route=/wpgmza/v1/markers/2/
+/?rest_route=/wpgmza/v1/markers/3/

@@ -1,3 +1,6 @@
 /wp-json
 /wp-json?
 /xwiki/rest/wikis/xwiki/spaces/Main/pages/WebHome/history
+/?rest_route=/wpgmza/v1/markers/1/
+/?rest_route=/wpgmza/v1/markers/2/
+/?rest_route=/wpgmza/v1/markers/3/

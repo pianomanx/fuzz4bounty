@@ -102,3 +102,4 @@
 /wp-content/plugins/hippoo/readme.txt
 /{{paths}}/
 /media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt

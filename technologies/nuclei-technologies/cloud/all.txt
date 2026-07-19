@@ -38,3 +38,4 @@
 /?list-type=2
 /api/TeacherQuery/SearchTeacherInSiteWithPagerRecords
 /_localstack/health
+/fo/login.php

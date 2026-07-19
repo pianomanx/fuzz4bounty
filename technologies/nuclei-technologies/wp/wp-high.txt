@@ -88,3 +88,6 @@
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
+/index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/wp-content/themes/xstore/style.css

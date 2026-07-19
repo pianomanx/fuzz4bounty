@@ -15,3 +15,5 @@
 /realms/master/clients-registrations/openid-connect
 /console/welcome
 /rest/v2/cache-managers/default
+/admin
+/admin/master/console/

@@ -1461,3 +1461,6 @@
 /.well-known/agent-card.json
 /.well-known/agent.json
 /mixpost/login
+/ui/login?from=/dashboards
+/admin/master/console/
+/fo/login.php

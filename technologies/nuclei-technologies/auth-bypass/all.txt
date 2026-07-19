@@ -106,3 +106,6 @@
 /global-protect/login.esp
 /sslmgr
 /agents
+/models
+/index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/api/modular-connector/login/{{string}}/?origin=mo&type=foo

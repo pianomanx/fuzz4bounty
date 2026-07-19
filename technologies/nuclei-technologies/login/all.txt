@@ -336,3 +336,10 @@
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
 /mics/login.jsp
 /mixpost/login
+/host-manager/html
+/manager/status
+/manager/html
+/docs/
+/examples/
+/ui/login?from=/dashboards
+/fo/login.php

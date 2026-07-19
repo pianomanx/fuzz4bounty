@@ -896,3 +896,6 @@
 /mixpost/login
 /admin/admin.html
 /manager/
+/ui/login?from=/dashboards
+/admin/master/console/
+/fo/login.php

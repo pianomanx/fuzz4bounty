@@ -98,3 +98,14 @@
 /healthz
 /workspace?url=javascript%3Aalert%28document.domain%29
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/models
+/wp-admin/admin-ajax.php
+/wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/wp-content/themes/xstore/style.css
+/examples/jsp/num/numguess.jsp?guess=5&hint=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/NoSuchPage/widget?id=%22%20onmouseover=%22alert(document.domain)%22%20x=%22
+/?rest_route=/wpgmza/v1/markers/1/
+/?rest_route=/wpgmza/v1/markers/2/
+/?rest_route=/wpgmza/v1/markers/3/
