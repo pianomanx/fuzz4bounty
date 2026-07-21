@@ -12,3 +12,6 @@
 /Login
 /.well-known/agent-card.json
 /.well-known/agent.json
+/api-description
+/models
+/ping

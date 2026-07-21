@@ -35,3 +35,5 @@
 /.well-known/agent-card.json
 /.well-known/agent.json
 /models
+/api-description
+/ping

@@ -343,3 +343,4 @@
 /examples/
 /ui/login?from=/dashboards
 /fo/login.php
+/workplace/home.action

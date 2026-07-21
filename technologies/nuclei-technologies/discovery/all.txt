@@ -1464,3 +1464,5 @@
 /ui/login?from=/dashboards
 /admin/master/console/
 /fo/login.php
+/models
+/ping
