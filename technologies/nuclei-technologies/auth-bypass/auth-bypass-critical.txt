@@ -59,3 +59,4 @@
 /sslmgr
 /de2api/user/info
 /models
+/en/login

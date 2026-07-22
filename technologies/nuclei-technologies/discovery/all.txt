@@ -1466,3 +1466,4 @@
 /fo/login.php
 /models
 /ping
+/solife/

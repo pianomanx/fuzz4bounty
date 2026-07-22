@@ -900,3 +900,4 @@
 /admin/master/console/
 /fo/login.php
 /workplace/home.action
+/solife/
