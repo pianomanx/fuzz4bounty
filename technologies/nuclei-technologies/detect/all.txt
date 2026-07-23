@@ -406,3 +406,5 @@
 /api-description
 /models
 /ping
+/katib/
+/ApplicationStatus

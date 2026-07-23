@@ -15,3 +15,7 @@
 /api-description
 /models
 /ping
+/katib/
+/version
+/
+/ApplicationStatus

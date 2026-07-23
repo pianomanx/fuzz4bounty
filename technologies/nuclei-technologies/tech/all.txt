@@ -685,3 +685,4 @@
 /get_model_info
 /models
 /ping
+/ApplicationStatus

@@ -901,3 +901,4 @@
 /fo/login.php
 /workplace/home.action
 /solife/
+/katib/

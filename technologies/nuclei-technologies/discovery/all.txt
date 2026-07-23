@@ -1467,3 +1467,5 @@
 /models
 /ping
 /solife/
+/katib/
+/ApplicationStatus
