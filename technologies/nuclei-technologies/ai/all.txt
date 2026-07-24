@@ -40,3 +40,4 @@
 /katib/
 /version
 /ApplicationStatus
+/v1/models

