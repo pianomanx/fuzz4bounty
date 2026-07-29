@@ -60,3 +60,4 @@
 /de2api/user/info
 /models
 /en/login
+/api/v1/auto_login
