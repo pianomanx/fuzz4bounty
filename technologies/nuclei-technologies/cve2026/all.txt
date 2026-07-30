@@ -123,3 +123,5 @@
 /api/v1/auto_login
 /wp-content/plugins/meta-box/readme.txt
 /wp-content/plugins/canto/readme.txt
+/wp-content/plugins/sureforms/readme.txt
+/wp-json/sureforms/v1/refresh-nonces

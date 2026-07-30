@@ -1091,3 +1091,5 @@
 /wp-content/{{filename}}
 /wp-content/plugins/wp-user-frontend/readme.txt
 /wp-content/plugins/canto/readme.txt
+/wp-content/plugins/sureforms/readme.txt
+/wp-json/sureforms/v1/refresh-nonces
