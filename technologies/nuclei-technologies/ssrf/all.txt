@@ -105,3 +105,4 @@
 /cors?url=http://{{interactsh-url}}/version
 {{chunk_path}}
 /wp-content/plugins/canto/readme.txt
+/tika
