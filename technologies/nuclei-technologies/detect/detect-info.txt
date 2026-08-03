@@ -408,3 +408,4 @@
 /ping
 /katib/
 /ApplicationStatus
+/_admin/

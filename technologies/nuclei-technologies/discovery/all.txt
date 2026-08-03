@@ -1469,3 +1469,5 @@
 /solife/
 /katib/
 /ApplicationStatus
+/cgi-bin/top.cgi
+/c/login

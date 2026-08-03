@@ -902,3 +902,7 @@
 /workplace/home.action
 /solife/
 /katib/
+/cgi-bin/top.cgi
+/PasswordVault/
+/c/login
+/_admin/
