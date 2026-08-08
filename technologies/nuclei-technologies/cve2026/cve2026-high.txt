@@ -42,3 +42,4 @@
 /wp-content/plugins/meta-box/readme.txt
 /wp-content/plugins/sureforms/readme.txt
 /wp-json/sureforms/v1/refresh-nonces
+/wp-login.php
