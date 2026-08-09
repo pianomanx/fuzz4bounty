@@ -127,3 +127,4 @@
 /wp-json/sureforms/v1/refresh-nonces
 /api/v1/upload/11111111-1111-1111-1111-111111111111
 /wp-login.php
+/wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
