@@ -674,3 +674,5 @@
 /models
 /ping
 /ApplicationStatus
+/__/auth/handler.js
+:9091/healthz

@@ -108,3 +108,4 @@
 /api/v1/chatflows
 /api/v1/upload/11111111-1111-1111-1111-111111111111
 /openapi.json
+/wp-content/uploads/isnapshots/{{fname}}.php

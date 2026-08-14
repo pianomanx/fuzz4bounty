@@ -1407,3 +1407,5 @@
 /ApplicationStatus
 /cgi-bin/top.cgi
 /c/login
+/swagger.json
+:9091/healthz
