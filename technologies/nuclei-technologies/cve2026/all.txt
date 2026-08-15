@@ -133,3 +133,7 @@
 /h2-console/
 /cache/original/%2e%2e/composer.json
 /ccm/system/dialogs/file/usage/1
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd
+/api/trpc/integration.all

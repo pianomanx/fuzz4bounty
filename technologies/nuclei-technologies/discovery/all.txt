@@ -1473,3 +1473,5 @@
 /c/login
 /swagger.json
 :9091/healthz
+?wsdl
+/plugin-manifest.json

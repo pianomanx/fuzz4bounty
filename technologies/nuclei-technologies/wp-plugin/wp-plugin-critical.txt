@@ -64,3 +64,4 @@
 /wp-content/plugins/quick-playground/readme.txt
 /wp-content/{{filename}}
 /wp-content/uploads/isnapshots/{{fname}}.php
+{{paths}}

@@ -1522,3 +1522,5 @@
 /.claude/agents/index.md
 /.claude/agents/README.md
 /.claude/agents/code-reviewer.md
+?wsdl
+/api/trpc/integration.all

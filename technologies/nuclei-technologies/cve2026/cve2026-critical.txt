@@ -51,3 +51,4 @@
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /api/v1/repos/search?limit=1
 /h2-console/
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt

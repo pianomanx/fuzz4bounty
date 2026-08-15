@@ -3894,3 +3894,4 @@
 /.htaccess.txt
 /.htaccess.old
 /wp-content/uploads/isnapshots/{{fname}}.php
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt

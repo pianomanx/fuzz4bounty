@@ -463,3 +463,4 @@
 /wp-content/plugins/sureforms/readme.txt
 /wp-json/sureforms/v1/refresh-nonces
 /wp-content/uploads/isnapshots/{{fname}}.php
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
