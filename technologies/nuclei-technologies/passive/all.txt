@@ -45,3 +45,4 @@
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /wp-content/plugins/everest-forms/readme.txt
 /wp-content/plugins/meta-box/readme.txt
+/allversions

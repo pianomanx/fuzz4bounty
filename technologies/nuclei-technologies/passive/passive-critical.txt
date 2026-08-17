@@ -30,3 +30,4 @@
 /api/v1/build_public_tmp/{{uuid}}/flow
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /wp-content/plugins/everest-forms/readme.txt
+/allversions

