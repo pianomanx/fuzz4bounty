@@ -54,3 +54,4 @@
 /production.log
 /.buildpath
 /.lesshst
+/.DS_Store

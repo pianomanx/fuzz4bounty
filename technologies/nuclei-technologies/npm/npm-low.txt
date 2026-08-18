@@ -2,3 +2,5 @@
 /.npm/anonymous-cli-metrics.json
 /npm-debug.log
 /assets/npm-debug.log
+/package.json
+/package-lock.json

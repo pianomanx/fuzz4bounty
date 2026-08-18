@@ -5,3 +5,5 @@
 /token.json
 /search/token.json
 /api/
+
+/hopfully404

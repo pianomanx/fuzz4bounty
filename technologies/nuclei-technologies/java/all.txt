@@ -12,3 +12,4 @@
 /te%3Cimg%20src=x%20onerror=alert(42)%3Est
 /monitoring
 /..%3B/monitoring
+/jmx-console/

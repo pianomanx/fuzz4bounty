@@ -2,3 +2,4 @@
 /api/v1/workflows/argo
 
 /api/version
+/rest/sentry.js

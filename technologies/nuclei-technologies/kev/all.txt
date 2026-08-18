@@ -179,3 +179,7 @@
 /agents
 /api/v1/auto_login
 /allversions
+/jmx-console/
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/signin
+/rest/sentry.js

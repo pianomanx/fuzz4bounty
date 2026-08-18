@@ -2,3 +2,4 @@
 /jexws4/jexws4.jsp?ppp={{url_encode(
 /jexinv4/jexinv4.jsp?ppp={{url_encode(
 /jbossass/jbossass.jsp?ppp={{url_encode(
+/jmx-console/

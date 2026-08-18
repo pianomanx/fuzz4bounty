@@ -110,3 +110,4 @@
 /openapi.json
 /wp-content/uploads/isnapshots/{{fname}}.php
 {{paths}}
+/jmx-console/

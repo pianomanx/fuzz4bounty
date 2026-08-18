@@ -370,3 +370,9 @@
 /.claude/agents/index.md
 /.claude/agents/README.md
 /.claude/agents/code-reviewer.md
+/package.json
+/package-lock.json
+/web.config
+/../../web.config
+/.DS_Store
+/hopfully404

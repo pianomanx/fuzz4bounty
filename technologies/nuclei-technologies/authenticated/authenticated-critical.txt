@@ -9,3 +9,6 @@
 /session
 /organizations/{{org_name}}/settings/actions/repository_items?page=1&rid_key=nw_fsck
 /
+
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/user/login
