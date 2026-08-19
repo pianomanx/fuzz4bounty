@@ -794,3 +794,5 @@
 /wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
 /allversions
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/jmx-console/
+/rest/sentry.js
