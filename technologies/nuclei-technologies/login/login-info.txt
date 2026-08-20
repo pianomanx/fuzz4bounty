@@ -349,3 +349,4 @@
 /c/login
 /_admin/
 /swagger.json
+/login/?next=/

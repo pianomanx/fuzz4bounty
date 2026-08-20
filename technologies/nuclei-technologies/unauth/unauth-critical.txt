@@ -95,3 +95,6 @@
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /h2-console/
 /wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/api/v4/projects?visibility=public&per_page=1

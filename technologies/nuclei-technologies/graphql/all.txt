@@ -11,3 +11,4 @@
 /graphql/voyager
 /graphiql
 /v1/graphql
+/api/v4/projects?visibility=public&per_page=1

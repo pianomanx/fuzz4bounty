@@ -38,3 +38,6 @@
 /wp-content/uploads/isnapshots/{{fname}}.php
 {{paths}}
 /jmx-console/
+/custom-report-example/..\\..\\..\\deployment\\sharp\\icons\\home-app.png
+/wp-content/plugins/profile-builder/readme.txt
+/register/
