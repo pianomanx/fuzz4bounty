@@ -328,3 +328,6 @@
 /user/login
 /jmx-console/
 /rest/sentry.js
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/api/v4/projects?visibility=public&per_page=1
