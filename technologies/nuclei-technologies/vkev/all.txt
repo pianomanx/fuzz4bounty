@@ -792,3 +792,10 @@
 /wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
 /api/v1/upload/11111111-1111-1111-1111-111111111111
 /api/v1/files/profile_pictures/../secret_key
+/jmx-console/
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/allversions
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/api/v4/projects?visibility=public&per_page=1
+/rest/sentry.js

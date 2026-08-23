@@ -78,3 +78,5 @@
 /dashboard%2e%2e/data/config.yaml
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /api/v1/repos/search?limit=1
+/execute_js
+/html

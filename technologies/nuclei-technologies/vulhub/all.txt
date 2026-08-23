@@ -11,3 +11,4 @@
 /index.php?target=db_sql.php%253f/../../../../../../../../etc/passwd
 /WEB-INF/web.xml
 /%2e/WEB-INF/web.xml
+/jmx-console/

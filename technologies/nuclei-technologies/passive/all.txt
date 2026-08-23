@@ -45,3 +45,5 @@
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /wp-content/plugins/everest-forms/readme.txt
 /wp-content/plugins/meta-box/readme.txt
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/allversions

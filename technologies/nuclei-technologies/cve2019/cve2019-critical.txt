@@ -28,3 +28,6 @@
 /api/timelion/run
 /wavemaker/studioService.download?method=getContent&inUrl=file///etc/passwd
 /wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php?ajaxAction=getIds&cfg=../../../../../../../../../../etc/passwd
+
+/login
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]

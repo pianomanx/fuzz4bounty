@@ -320,3 +320,9 @@
 /web/login?db=asdf&redirect=http://interact.sh
 /httpexchanges
 /actuator/httpexchanges
+/package.json
+/package-lock.json
+/web.config
+/../../web.config
+/.DS_Store
+/hopfully404

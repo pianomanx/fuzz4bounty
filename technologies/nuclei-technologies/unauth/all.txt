@@ -427,3 +427,6 @@
 /wp-admin/admin-ajax.php?action=nedwp_feedback_modal_export&export_type=json&export_data=1
 /api/trpc/integration.all
 /ccm/system/dialogs/file/usage/1
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/api/v4/projects?visibility=public&per_page=1

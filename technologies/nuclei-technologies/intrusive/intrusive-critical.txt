@@ -37,3 +37,7 @@
 /api/v1/upload/11111111-1111-1111-1111-111111111111
 /wp-content/uploads/isnapshots/{{fname}}.php
 {{paths}}
+/jmx-console/
+/custom-report-example/..\\..\\..\\deployment\\sharp\\icons\\home-app.png
+/wp-content/plugins/profile-builder/readme.txt
+/register/

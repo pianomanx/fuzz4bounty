@@ -137,3 +137,15 @@
 /cache/original/%2e%2e/composer.json
 /api/trpc/integration.all
 /ccm/system/dialogs/file/usage/1
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/api/v4/projects?visibility=public&per_page=1
+/rest/sentry.js
+/execute_js
+/html
+/user/login
+/wp-content/plugins/planyo-online-reservation-system/readme.txt
+/wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
+/?to=2026-09-12&from=2026-08-13&mc-api=json
+/?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x
+/admin/

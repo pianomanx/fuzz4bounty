@@ -1,0 +1,1 @@
+/api/v4/projects?visibility=public&per_page=1

@@ -102,3 +102,5 @@
 /global-protect/login.esp
 /sslmgr
 /api/v1/auto_login
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/allversions

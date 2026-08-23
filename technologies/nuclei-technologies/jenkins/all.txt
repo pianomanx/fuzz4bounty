@@ -18,3 +18,4 @@
 /securityRealm/signup
 /jenkins/securityRealm/signup
 /signup
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]

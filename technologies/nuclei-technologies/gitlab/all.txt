@@ -8,3 +8,4 @@
 /.gitlab-ci.yml
 /gitlab-ci.yml
 /.gitlab-ci/variables.yml
+/api/v4/projects?visibility=public&per_page=1

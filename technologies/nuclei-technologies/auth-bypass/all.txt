@@ -111,3 +111,6 @@
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /en/login
 /api/v1/auto_login
+/allversions
+/wp-content/plugins/profile-builder/readme.txt
+/register/

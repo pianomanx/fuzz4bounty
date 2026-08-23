@@ -61,3 +61,6 @@
 /models
 /en/login
 /api/v1/auto_login
+/allversions
+/wp-content/plugins/profile-builder/readme.txt
+/register/

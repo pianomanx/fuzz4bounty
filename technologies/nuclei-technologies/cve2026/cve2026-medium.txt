@@ -33,3 +33,4 @@
 /wp-content/plugins/canto/readme.txt
 /api/trpc/integration.all
 /ccm/system/dialogs/file/usage/1
+/admin/

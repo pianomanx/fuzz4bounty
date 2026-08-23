@@ -1,2 +1,3 @@
 /openam/oauth2/..;/ccversion/Version
 /oam/server/opensso/sessionservice
+/jmx-console/

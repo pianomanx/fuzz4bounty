@@ -153,3 +153,6 @@
 /wp-content/plugins/armember-membership/readme.txt
 /index.php?rest_route=/wp/v2/pages&per_page=100
 /wp-content/themes/xstore/style.css
+/wp-content/plugins/my-calendar/readme.txt
+/?to=2026-09-12&from=2026-08-13&mc-api=json
+/?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x

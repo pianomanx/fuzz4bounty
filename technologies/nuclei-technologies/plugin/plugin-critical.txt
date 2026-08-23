@@ -1,1 +1,4 @@
 /wp-content/plugins/wp-payeezy-pay/donate.php
+
+/login
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]

@@ -42,3 +42,6 @@
 /plugins/web/service/search/auto-completion/domain/en.xml?q=adm
 /plugins/generic/tinymce/plugins/justboil.me/dialog-v4.htm
 /plugins/vkeyboard/vkeyboard.php?passformname={{url_encode(payload)}}
+
+/login
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]

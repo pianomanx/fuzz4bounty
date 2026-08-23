@@ -1,1 +1,4 @@
 /assets/../package.json
+
+/execute_js
+/html

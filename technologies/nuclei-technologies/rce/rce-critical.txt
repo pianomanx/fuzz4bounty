@@ -238,3 +238,7 @@
 /api/v1/auto_login
 /wp-content/uploads/isnapshots/{{fname}}.php
 /h2-console/
+/jmx-console/
+/pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/rest/sentry.js
+/user/login

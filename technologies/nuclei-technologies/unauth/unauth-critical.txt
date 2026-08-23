@@ -95,3 +95,6 @@
 /dashboard%2e%2e/data/config.yaml
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /h2-console/
+/wp-content/plugins/profile-builder/readme.txt
+/register/
+/api/v4/projects?visibility=public&per_page=1
