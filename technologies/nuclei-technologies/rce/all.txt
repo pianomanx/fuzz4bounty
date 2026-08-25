@@ -299,3 +299,4 @@
 /jmx-console/
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /rest/sentry.js
+/guardrails/test_custom_code

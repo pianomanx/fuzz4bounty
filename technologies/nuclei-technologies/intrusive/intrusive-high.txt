@@ -40,3 +40,4 @@
 /..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows%2fwin.ini
 /js/../../../../../../../../etc/passwd%00.jpg
 /installed_emanual_down.html?path=/manual/../../../etc/passwd
+/guardrails/test_custom_code

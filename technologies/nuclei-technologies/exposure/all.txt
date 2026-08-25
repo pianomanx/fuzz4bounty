@@ -1524,3 +1524,5 @@
 /.claude/agents/code-reviewer.md
 ?wsdl
 /api/trpc/integration.all
+/wp-json/lottiefiles/v1/settings/
+/index.php/ccm/system/dialogs/file/usage/1

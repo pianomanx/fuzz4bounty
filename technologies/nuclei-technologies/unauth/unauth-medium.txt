@@ -140,3 +140,5 @@
 /wp-admin/admin-ajax.php?action=nedwp_feedback_modal_export&export_type=json&export_data=1
 /ccm/system/dialogs/file/usage/1
 /api/trpc/integration.all
+/wp-json/lottiefiles/v1/settings/
+/index.php/ccm/system/dialogs/file/usage/1

@@ -50,3 +50,4 @@
 /flows
 /
 /wp-login.php
+/guardrails/test_custom_code

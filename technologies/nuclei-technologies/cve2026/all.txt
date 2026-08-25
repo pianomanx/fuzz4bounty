@@ -149,3 +149,6 @@
 /wp-content/plugins/planyo-online-reservation-system/readme.txt
 /wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
 /admin/
+/guardrails/test_custom_code
+/wp-json/lottiefiles/v1/settings/
+/index.php/ccm/system/dialogs/file/usage/1
