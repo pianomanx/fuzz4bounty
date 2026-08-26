@@ -1411,3 +1411,5 @@
 :9091/healthz
 ?wsdl
 /plugin-manifest.json
+/api/health
+/api/v1/status

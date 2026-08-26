@@ -351,3 +351,5 @@
 /_admin/
 /swagger.json
 /login/?next=/
+/api/
+/api/health

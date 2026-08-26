@@ -12,3 +12,4 @@
 /jbossws/services
 /status?full=true
 /debug.seam
+/jbossmq-httpil/HTTPServerILServlet

@@ -1,1 +1,2 @@
 /jmx-console/
+/jbossmq-httpil/HTTPServerILServlet

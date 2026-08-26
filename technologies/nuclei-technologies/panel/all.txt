@@ -907,3 +907,5 @@
 /c/login
 /_admin/
 /swagger.json
+/api/
+/api/health

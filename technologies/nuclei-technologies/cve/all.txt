@@ -2283,3 +2283,6 @@
 /guardrails/test_custom_code
 /wp-json/lottiefiles/v1/settings/
 /index.php/ccm/system/dialogs/file/usage/1
+/jbossmq-httpil/HTTPServerILServlet
+/index.php/guest/get/get_file/..%2f..%2fipconfig.php
+/wp-content/uploads/{{logname}}.log

@@ -1,0 +1,1 @@
+/jbossmq-httpil/HTTPServerILServlet

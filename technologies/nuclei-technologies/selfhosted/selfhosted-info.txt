@@ -1,2 +1,5 @@
 
 /api/app/about
+/api/
+/api/health
+/api/version

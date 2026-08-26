@@ -152,3 +152,6 @@
 /guardrails/test_custom_code
 /wp-json/lottiefiles/v1/settings/
 /index.php/ccm/system/dialogs/file/usage/1
+/index.php/guest/get/get_file/..%2f..%2fipconfig.php
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/uploads/{{logname}}.log
