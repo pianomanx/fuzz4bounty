@@ -1,0 +1,3 @@
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config

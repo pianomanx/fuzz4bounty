@@ -432,3 +432,5 @@
 /api/v4/projects?visibility=public&per_page=1
 /wp-json/lottiefiles/v1/settings/
 /index.php/ccm/system/dialogs/file/usage/1
+/wp-content/plugins/elementor-pro/readme.txt
+/?phpinfo=TRUE

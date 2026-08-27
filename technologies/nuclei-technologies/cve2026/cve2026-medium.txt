@@ -38,3 +38,4 @@
 /index.php/ccm/system/dialogs/file/usage/1
 /wp-content/plugins/all-in-one-wp-migration/readme.txt
 /wp-content/uploads/{{logname}}.log
+/?phpinfo=TRUE

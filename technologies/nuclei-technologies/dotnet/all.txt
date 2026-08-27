@@ -5,3 +5,6 @@
 /ReportServer
 /Properties/launchSettings.json
 /launchSettings.json
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config

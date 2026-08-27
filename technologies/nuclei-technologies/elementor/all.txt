@@ -7,3 +7,4 @@
 /wp-content/plugins/elementor/app/modules/import-export-customization/runners/revert/wp-content.php
 /wp-content/plugins/elementor/assets/js/frontend.min.js
 /wp-content/plugins/elementor/readme.txt
+/wp-content/plugins/elementor-pro/readme.txt

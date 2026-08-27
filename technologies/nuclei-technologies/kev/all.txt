@@ -183,3 +183,4 @@
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /signin
 /rest/sentry.js
+/wp-content/plugins/elementor-pro/readme.txt

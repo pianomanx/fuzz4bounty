@@ -413,3 +413,5 @@
 /api/
 /api/health
 /api/v1/status
+/api/info.json
+/api/v1/info

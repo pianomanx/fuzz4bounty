@@ -403,3 +403,5 @@
 /api/trpc/integration.all
 /wp-json/lottiefiles/v1/settings/
 /index.php/ccm/system/dialogs/file/usage/1
+/server/specs/oas
+/?phpinfo=TRUE

@@ -115,3 +115,4 @@
 /signin
 /rest/sentry.js
 /user/login
+/wp-content/plugins/elementor-pro/readme.txt

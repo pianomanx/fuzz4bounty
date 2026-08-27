@@ -1477,3 +1477,4 @@
 /plugin-manifest.json
 /api/health
 /api/v1/status
+/api/info.json

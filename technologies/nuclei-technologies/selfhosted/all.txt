@@ -3,3 +3,4 @@
 /api/
 /api/health
 /api/version
+/api/info.json

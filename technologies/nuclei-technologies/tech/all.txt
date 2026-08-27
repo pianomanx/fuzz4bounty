@@ -690,3 +690,5 @@
 :9091/healthz
 /plugin-manifest.json
 /api/v1/status
+/api/app/about
+/api/v1/info

@@ -28,3 +28,9 @@
 /sftp.json
 /.config/sftp.json
 /.vscode/sftp.json
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config

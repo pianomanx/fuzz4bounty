@@ -1526,3 +1526,11 @@
 /api/trpc/integration.all
 /wp-json/lottiefiles/v1/settings/
 /index.php/ccm/system/dialogs/file/usage/1
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config
+/server/specs/oas
+/?phpinfo=TRUE

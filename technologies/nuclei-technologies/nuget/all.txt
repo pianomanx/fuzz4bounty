@@ -1,2 +1,5 @@
 /packages.config
 /.nuget/packages.config
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config

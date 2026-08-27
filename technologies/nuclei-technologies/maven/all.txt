@@ -1,0 +1,3 @@
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml

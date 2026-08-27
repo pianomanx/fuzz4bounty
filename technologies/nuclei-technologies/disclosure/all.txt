@@ -218,3 +218,5 @@
 /?rest_route=/wpgmza/v1/markers/2/
 /?rest_route=/wpgmza/v1/markers/3/
 /ccm/system/dialogs/file/usage/1
+/server/specs/oas
+/?phpinfo=TRUE

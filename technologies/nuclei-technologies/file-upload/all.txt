@@ -30,3 +30,4 @@
 /wp-content/{{filename}}
 /wp-content/plugins/canto/readme.txt
 /wp-content/uploads/isnapshots/{{fname}}.php
+/wp-content/plugins/elementor-pro/readme.txt

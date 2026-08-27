@@ -909,3 +909,4 @@
 /swagger.json
 /api/
 /api/health
+/api/info.json
