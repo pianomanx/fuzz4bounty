@@ -242,3 +242,5 @@
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /rest/sentry.js
 /user/login
+/jbossmq-httpil/HTTPServerILServlet
+/wp-content/plugins/elementor-pro/readme.txt

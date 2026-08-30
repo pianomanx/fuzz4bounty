@@ -99,3 +99,9 @@
 /.gem/credentials.yaml
 /rest/GetUserlogin
 /rest/GetAutologin
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config

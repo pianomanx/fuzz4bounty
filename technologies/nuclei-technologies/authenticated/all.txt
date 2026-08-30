@@ -22,3 +22,4 @@
 
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /user/login
+/wp-content/plugins/wp-content-permission/readme.txt

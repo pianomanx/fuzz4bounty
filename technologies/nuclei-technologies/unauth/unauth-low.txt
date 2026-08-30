@@ -15,3 +15,4 @@
 /api/v1/user/public-user-list
 /api/v1/repos/search?limit=1
 /api/v1/orgs/{{orgname}}
+/api/v1/targets

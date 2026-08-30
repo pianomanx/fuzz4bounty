@@ -464,3 +464,9 @@
 /.claude/agents/index.md
 /.claude/agents/README.md
 /.claude/agents/code-reviewer.md
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config

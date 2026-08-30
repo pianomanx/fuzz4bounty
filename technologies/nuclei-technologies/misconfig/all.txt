@@ -877,3 +877,4 @@
 /setup/install.php
 /install/page_start.php
 /v1/models
+/loki/api/v1/labels

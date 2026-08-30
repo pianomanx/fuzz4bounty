@@ -12,3 +12,4 @@
 /helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
 /openam/ui/PWResetUserValidation
 /jmx-console/
+/jbossmq-httpil/HTTPServerILServlet

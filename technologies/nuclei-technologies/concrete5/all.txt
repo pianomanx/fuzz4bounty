@@ -9,3 +9,4 @@
 /concrete/js/build/
 /concrete/block/
 /dashboard/
+/index.php/ccm/system/dialogs/file/usage/1

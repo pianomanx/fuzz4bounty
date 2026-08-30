@@ -3,3 +3,5 @@
 /vendor/phpfastcache/phpfastcache/examples/phpinfo.php
 /StudioServer/server/wwtest/phpinfo.php
 /server/wwtest/phpinfo.php
+
+/?phpinfo=TRUE

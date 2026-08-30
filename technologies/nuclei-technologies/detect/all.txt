@@ -410,3 +410,9 @@
 /ApplicationStatus
 /_admin/
 :9091/healthz
+/super_admin/sign_in
+/api/
+/api/health
+/api/info.json
+/api/v1/status
+/api/v1/info

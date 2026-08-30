@@ -3896,3 +3896,5 @@
 /wp-content/uploads/isnapshots/{{fname}}.php
 /wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/wp-content/plugins/elementor-pro/readme.txt
+/server/specs/oas

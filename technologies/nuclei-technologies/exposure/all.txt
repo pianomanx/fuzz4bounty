@@ -1524,3 +1524,16 @@
 /.claude/agents/README.md
 /.claude/agents/code-reviewer.md
 /api/trpc/integration.all
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config
+/server/info
+/api/v1/targets
+/server/specs/oas
+/wp-json/lottiefiles/v1/settings/
+/?phpinfo=TRUE
+/index.php/ccm/system/dialogs/file/usage/1
+/loki/api/v1/labels

@@ -907,3 +907,7 @@
 /c/login
 /_admin/
 /swagger.json
+/super_admin/sign_in
+/api/
+/api/health
+/api/info.json

@@ -64,3 +64,4 @@
 /allversions
 /wp-content/plugins/profile-builder/readme.txt
 /register/
+/login

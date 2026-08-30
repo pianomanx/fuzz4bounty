@@ -13,3 +13,6 @@
 /monitoring
 /..%3B/monitoring
 /jmx-console/
+/settings.xml
+/.m2/settings.xml
+/conf/settings.xml

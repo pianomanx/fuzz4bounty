@@ -1475,3 +1475,7 @@
 ?wsdl
 :9091/healthz
 /plugin-manifest.json
+/super_admin/sign_in
+/api/health
+/api/info.json
+/api/v1/status

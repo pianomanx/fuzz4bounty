@@ -238,3 +238,4 @@
 /actuator/sbom
 /sbom/application
 /actuator/sbom/application
+/api/v1/targets

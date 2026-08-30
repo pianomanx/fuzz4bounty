@@ -401,3 +401,8 @@
 /.claude/settings.local.json
 /.mcp.json
 /api/trpc/integration.all
+/server/specs/oas
+/wp-json/lottiefiles/v1/settings/
+/?phpinfo=TRUE
+/index.php/ccm/system/dialogs/file/usage/1
+/loki/api/v1/labels

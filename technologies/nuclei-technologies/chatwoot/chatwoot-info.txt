@@ -1,1 +1,2 @@
 /app/login
+/super_admin/sign_in

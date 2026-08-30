@@ -1,2 +1,5 @@
 /glimpse.axd
 /Glimpse.axd
+/nuget.config
+/NuGet.Config
+/.nuget/nuget.config
