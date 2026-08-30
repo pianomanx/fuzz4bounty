@@ -434,3 +434,6 @@
 /index.php/ccm/system/dialogs/file/usage/1
 /wp-content/plugins/elementor-pro/readme.txt
 /?phpinfo=TRUE
+/server/info
+/api/v1/targets
+/loki/api/v1/labels

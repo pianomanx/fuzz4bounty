@@ -1,2 +1,1 @@
-/vmui/
 /api/v1/targets

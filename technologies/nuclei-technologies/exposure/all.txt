@@ -1534,3 +1534,6 @@
 /.nuget/nuget.config
 /server/specs/oas
 /?phpinfo=TRUE
+/server/info
+/api/v1/targets
+/loki/api/v1/labels

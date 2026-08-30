@@ -18,3 +18,4 @@
 /graph/login
 /metrics
 /dashboard/snapshot/%7B%7Bconstructor.constructor(%27alert(document.domain)%27)()%7D%7D?orgId=1
+/loki/api/v1/labels

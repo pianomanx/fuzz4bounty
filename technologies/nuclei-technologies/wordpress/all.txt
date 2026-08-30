@@ -1108,3 +1108,4 @@
 /wp-json/lottiefiles/v1/settings/
 /wp-content/uploads/{{logname}}.log
 /wp-content/plugins/elementor-pro/readme.txt
+/wp-content/plugins/wp-content-permission/readme.txt

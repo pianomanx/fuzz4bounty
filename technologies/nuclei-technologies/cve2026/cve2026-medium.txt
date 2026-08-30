@@ -39,3 +39,4 @@
 /wp-content/plugins/all-in-one-wp-migration/readme.txt
 /wp-content/uploads/{{logname}}.log
 /?phpinfo=TRUE
+/wp-content/plugins/wp-content-permission/readme.txt

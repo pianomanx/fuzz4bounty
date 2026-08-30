@@ -143,3 +143,4 @@
 /wp-json/lottiefiles/v1/settings/
 /index.php/ccm/system/dialogs/file/usage/1
 /?phpinfo=TRUE
+/loki/api/v1/labels

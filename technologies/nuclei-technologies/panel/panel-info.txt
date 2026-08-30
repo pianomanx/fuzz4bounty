@@ -858,3 +858,4 @@
 /api/
 /api/health
 /api/info.json
+/super_admin/sign_in

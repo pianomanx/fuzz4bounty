@@ -159,3 +159,4 @@
 /wp-content/plugins/elementor-pro/readme.txt
 /index.php?option=com_easystore&view=products&task=search&filter_sortby=created-ASC,EXTRACTVALUE(1,CONCAT(CHAR(126),SUBSTRING(MD5({{num}}),1,28)))--+-
 /?phpinfo=TRUE
+/wp-content/plugins/wp-content-permission/readme.txt

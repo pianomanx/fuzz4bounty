@@ -145,3 +145,4 @@
 /wp-content/plugins/wp-user-frontend/readme.txt
 /wp-content/plugins/canto/readme.txt
 /wp-content/uploads/{{logname}}.log
+/wp-content/plugins/wp-content-permission/readme.txt

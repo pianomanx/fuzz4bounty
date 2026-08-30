@@ -376,3 +376,4 @@
 /../../web.config
 /.DS_Store
 /hopfully404
+/api/v1/targets

@@ -341,3 +341,4 @@
 /wp-admin/admin-ajax.php?action=nedwp_feedback_modal_export&export_type=json&export_data=1
 /wp-json/lottiefiles/v1/settings/
 /wp-content/uploads/{{logname}}.log
+/wp-content/plugins/wp-content-permission/readme.txt

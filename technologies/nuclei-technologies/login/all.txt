@@ -353,3 +353,4 @@
 /login/?next=/
 /api/
 /api/health
+/super_admin/sign_in

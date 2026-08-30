@@ -318,3 +318,4 @@
 /GoogleService-Info.plist
 /auth
 ?wsdl
+/server/info

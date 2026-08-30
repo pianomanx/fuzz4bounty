@@ -1,0 +1,1 @@
+/loki/api/v1/labels

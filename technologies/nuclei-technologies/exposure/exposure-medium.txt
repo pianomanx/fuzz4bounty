@@ -405,3 +405,4 @@
 /index.php/ccm/system/dialogs/file/usage/1
 /server/specs/oas
 /?phpinfo=TRUE
+/loki/api/v1/labels
