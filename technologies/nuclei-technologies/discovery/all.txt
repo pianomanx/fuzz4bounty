@@ -1479,3 +1479,4 @@
 /api/v1/status
 /api/info.json
 /super_admin/sign_in
+/api/heartbeat

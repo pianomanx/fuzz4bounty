@@ -911,3 +911,5 @@
 /api/health
 /api/info.json
 /super_admin/sign_in
+/api/heartbeat
+/api/v1/version
