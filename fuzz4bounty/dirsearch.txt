@@ -2493,7 +2493,6 @@ Webalizer/
 Wishlist.%EXT%
 Wordpress/
 XSQLConfig.xml
-\..\..\..\..\..\..\..\..\..\etc\passwd
 _
 _.htpasswd
 _AuthChangeUrl?
