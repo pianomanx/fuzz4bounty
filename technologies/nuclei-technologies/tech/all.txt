@@ -693,3 +693,4 @@
 /api/app/about
 /api/v1/info
 /api/v1/health
+/core/CHANGELOG.txt
