@@ -805,3 +805,4 @@
 /jbossmq-httpil/HTTPServerILServlet
 /wp-content/plugins/elementor-pro/readme.txt
 /system.ini?loginuse&loginpas
+/wp-content/plugins/analytics-insights/tools/oauth2callback.php?state=https://oast.me/%3f&code=x
