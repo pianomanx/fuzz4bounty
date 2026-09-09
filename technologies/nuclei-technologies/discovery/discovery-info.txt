@@ -1416,3 +1416,17 @@
 /api/info.json
 /super_admin/sign_in
 /api/heartbeat
+/login.act
+/cgit/
+/ucmuser/
+/flexnet/logon.do
+/orbeon/
+/#/signin
+/login/?nLang=1
+/tika
+/cucm-uds/version
+/composer.json
+/composer.lock
+/api/graphql
+/query
+/xwiki/
