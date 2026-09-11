@@ -4489,3 +4489,7 @@
 /wp-content/uploads/sites/1/mc4wp-debug-log.php
 /wp-content/uploads/sites/1/mailchimp-for-wp/debug-log.php
 /?list-type=2
+/api/health
+/allversions
+/auth/v1/account/login_options
+/auth/v1/account/status

@@ -116,3 +116,5 @@
 /rest/sentry.js
 /user/login
 /wp-content/plugins/elementor-pro/readme.txt
+/auth/v1/account/login_options
+/auth/v1/account/status

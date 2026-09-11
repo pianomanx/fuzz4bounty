@@ -406,3 +406,6 @@
 /server/specs/oas
 /?phpinfo=TRUE
 /loki/api/v1/labels
+/metrics/healthcheck
+/metrics/metrics
+/metrics/threads

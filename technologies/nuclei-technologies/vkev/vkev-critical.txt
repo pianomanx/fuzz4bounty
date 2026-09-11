@@ -336,3 +336,6 @@
 /jbossmq-httpil/HTTPServerILServlet
 /wp-content/plugins/elementor-pro/readme.txt
 /system.ini?loginuse&loginpas
+/api/health
+/auth/v1/account/login_options
+/auth/v1/account/status
