@@ -445,3 +445,4 @@
 /v3/auth/status
 /members
 /wp-json/essential-blocks/v1/products?per_page=20
+/index.html

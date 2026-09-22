@@ -472,3 +472,4 @@
 /wp-content/plugins/wp-content-permission/readme.txt
 /ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/
 /?_wplogin=35fe7057ffed92ff7bc5a0b90f302a77fb5843ad6c972294d68da0b0553b3900
+/wp-admin/js/theme.js
