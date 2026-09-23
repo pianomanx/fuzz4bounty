@@ -446,3 +446,6 @@
 /members
 /wp-json/essential-blocks/v1/products?per_page=20
 /index.html
+/wp-content/plugins/hippoo/readme.txt
+/?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/wc-hippoo/v1/ext/wp/v2/users/1

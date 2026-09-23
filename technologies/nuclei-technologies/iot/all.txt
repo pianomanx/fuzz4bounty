@@ -117,3 +117,4 @@
 /ONVIF/media.cgi?action=getSnapshot&channel=1
 /config/
 /manager/
+/sign_in

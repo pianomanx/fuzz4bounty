@@ -417,3 +417,8 @@
 /api/v1/info
 /super_admin/sign_in
 /api/heartbeat
+/api/v1/instance
+{{js}}
+/openboxes/auth/login
+/icons/site.webmanifest
+/sign_in
