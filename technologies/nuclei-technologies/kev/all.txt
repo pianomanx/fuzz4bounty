@@ -186,3 +186,5 @@
 /wp-content/plugins/elementor-pro/readme.txt
 /auth/v1/account/login_options
 /auth/v1/account/status
+/cgi-bin/webctrl.cgi?action=login_authentication&redirect_action=sysinfo_page&login_username=blueangel&login_password=blueangel&B1=Login
+/cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING
