@@ -929,3 +929,7 @@
 /wp-json/essential-blocks/v1/products?per_page=20
 /wp-json/newfold-data/v1/verify/00000000000000000000000000000000
 /wp-json/wp/v2/users/me?context=edit
+/forum/
+/forums/
+/community/
+/board/

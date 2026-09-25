@@ -1120,3 +1120,7 @@
 /wp-json/wc-hippoo/v1/ext/wp/v2/users/1
 /wp-json/newfold-data/v1/verify/00000000000000000000000000000000
 /wp-json/wp/v2/users/me?context=edit
+/forum/
+/forums/
+/community/
+/board/
