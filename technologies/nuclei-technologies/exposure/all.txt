@@ -1542,3 +1542,4 @@
 /metrics/threads
 /v3/auth/status
 /members
+/skServer/serialports

@@ -410,3 +410,4 @@
 /metrics/metrics
 /metrics/threads
 /index.html
+/skServer/serialports
