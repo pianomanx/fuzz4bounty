@@ -1543,3 +1543,9 @@
 /v3/auth/status
 /members
 /skServer/serialports
+/.terraformrc
+/terraform.rc
+/terraform.tfstate
+/terraform.tfstate.backup
+/serverless.yml
+/serverless.yaml
