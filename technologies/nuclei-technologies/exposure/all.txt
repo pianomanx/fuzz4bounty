@@ -1549,3 +1549,5 @@
 /terraform.tfstate.backup
 /serverless.yml
 /serverless.yaml
+/api/auth/oidc/providers
+/api/auth/health
