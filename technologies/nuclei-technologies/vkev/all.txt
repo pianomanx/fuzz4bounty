@@ -846,3 +846,4 @@
 {{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
 /wp-content/plugins/wp-fastest-cache/readme.txt
 /wp-content/themes/xstore/style.css
+/api/v1/repos/search?limit=1
