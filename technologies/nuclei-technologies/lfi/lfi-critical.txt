@@ -80,3 +80,4 @@
 /api/v1/repos/search?limit=1
 /execute_js
 /html
+/index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd

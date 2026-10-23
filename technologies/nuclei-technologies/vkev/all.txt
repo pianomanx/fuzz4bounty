@@ -848,3 +848,4 @@
 /wp-content/themes/xstore/style.css
 /api/v1/repos/search?limit=1
 /index.php?option=com_contenthistory&view=history&list[ordering]=&item_id=1&type_id=1&list[select]=updatexml(0x23,concat(1,md5({{num}})),1)
+/wp-json/

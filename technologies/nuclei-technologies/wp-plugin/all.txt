@@ -933,3 +933,5 @@
 /forums/
 /community/
 /board/
+/wp-json/
+/wp-content/plugins/wpdm-premium-packages/readme.txt
