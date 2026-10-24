@@ -2325,3 +2325,6 @@
 /index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
 /wp-content/plugins/wpdm-premium-packages/readme.txt
 /api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/fog/service/getversion.php
+/fog/status/getfiles.php?path[]=
+/wp-content/plugins/the-events-calendar/readme.txt

@@ -849,3 +849,10 @@
 /api/v1/repos/search?limit=1
 /index.php?option=com_contenthistory&view=history&list[ordering]=&item_id=1&type_id=1&list[select]=updatexml(0x23,concat(1,md5({{num}})),1)
 /wp-json/
+/snippets.inc.php?search=True&searchField=antani
+/fog/service/getversion.php
+/fog/status/getfiles.php?path[]=
+/?noptin_ns=email_click&to=https://interact.sh
+/auth/logout?continue=//interact.sh
+/?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
+/wp-json/ssa/v1/users

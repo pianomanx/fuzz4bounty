@@ -1,3 +1,5 @@
 
 /fog/management/index.php?node=about&sub=kernel
 /fog/service/getversion.php?url={{interactsh-url}}
+/fog/service/getversion.php
+/fog/status/getfiles.php?path[]=

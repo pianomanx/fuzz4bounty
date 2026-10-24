@@ -220,3 +220,4 @@
 /ccm/system/dialogs/file/usage/1
 /server/specs/oas
 /?phpinfo=TRUE
+/wp-content/plugins/the-events-calendar/readme.txt

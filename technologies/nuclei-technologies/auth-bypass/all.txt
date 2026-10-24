@@ -119,3 +119,5 @@
 /auth/v1/account/status
 /wp-json/newfold-data/v1/verify/00000000000000000000000000000000
 /wp-json/wp/v2/users/me?context=edit
+/fog/service/getversion.php
+/fog/status/getfiles.php?path[]=

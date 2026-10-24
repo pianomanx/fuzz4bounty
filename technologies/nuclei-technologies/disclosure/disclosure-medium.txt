@@ -76,3 +76,4 @@
 /server/specs/oas
 
 /?phpinfo=TRUE
+/wp-content/plugins/the-events-calendar/readme.txt
