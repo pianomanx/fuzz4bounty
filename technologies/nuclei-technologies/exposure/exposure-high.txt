@@ -435,3 +435,7 @@
 /terraform.rc
 /terraform.tfstate
 /terraform.tfstate.backup
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

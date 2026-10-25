@@ -4502,3 +4502,4 @@
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
 /wp-content/plugins/the-events-calendar/readme.txt
+/version

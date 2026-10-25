@@ -121,3 +121,7 @@
 /wp-json/wp/v2/users/me?context=edit
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

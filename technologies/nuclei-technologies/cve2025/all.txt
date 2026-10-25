@@ -193,3 +193,4 @@
 /skServer/serialports
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
+/version

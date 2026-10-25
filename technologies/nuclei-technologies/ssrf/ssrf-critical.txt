@@ -33,3 +33,4 @@
 /cors?url=http://{{interactsh-url}}/version
 /
 /tika
+/version

@@ -13,3 +13,5 @@
 /status?full=true
 /debug.seam
 /jbossmq-httpil/HTTPServerILServlet
+/web-console/
+/invoker/JMXInvokerServlet

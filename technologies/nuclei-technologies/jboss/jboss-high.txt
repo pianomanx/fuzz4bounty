@@ -1,1 +1,5 @@
 /jmx-console/HtmlAdaptor?action=displayMBeans
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

@@ -60,3 +60,4 @@
 /?rest_route=/wp/v2/users&per_page=1
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
+/version

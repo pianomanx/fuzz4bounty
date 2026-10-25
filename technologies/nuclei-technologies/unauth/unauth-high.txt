@@ -171,3 +171,7 @@
 /members
 /wp-content/plugins/wpdm-premium-packages/readme.txt
 /api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

