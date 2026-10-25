@@ -1551,3 +1551,7 @@
 /serverless.yaml
 /api/auth/oidc/providers
 /api/auth/health
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

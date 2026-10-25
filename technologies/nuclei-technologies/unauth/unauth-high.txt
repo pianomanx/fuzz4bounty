@@ -169,3 +169,9 @@
 /wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
 /v3/auth/status
 /members
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet
+/wp-content/plugins/wpdm-premium-packages/readme.txt
+/api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd

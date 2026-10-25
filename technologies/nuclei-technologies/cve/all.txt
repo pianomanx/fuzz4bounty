@@ -2321,3 +2321,14 @@
 /skServer/serialports
 /wd/hub/status
 /wd/hub/session
+/version
+/fog/service/getversion.php
+/fog/status/getfiles.php?path[]=
+/wp-json/
+/index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet
+/wp-content/plugins/wpdm-premium-packages/readme.txt
+/api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/wp-content/plugins/the-events-calendar/readme.txt

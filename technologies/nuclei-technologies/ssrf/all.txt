@@ -108,3 +108,4 @@
 /wp-content/plugins/canto/readme.txt
 /wp-content/plugins/planyo-online-reservation-system/readme.txt
 /wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
+/version

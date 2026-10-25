@@ -508,3 +508,4 @@
 /mailinspector
 /mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd
 /js/zimbraMail/share/model/ZmSettings.js
+/api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd

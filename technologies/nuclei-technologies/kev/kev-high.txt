@@ -57,3 +57,7 @@
 /.well-known/acme-challenge/../../admin/diagnostic.jsp
 /update/../admin/diagnostic.jsp
 /allversions
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet

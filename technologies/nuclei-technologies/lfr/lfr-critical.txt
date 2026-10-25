@@ -1,1 +1,4 @@
 /services/getFile.cmd?userfile=config.xml
+/
+/version
+/tika

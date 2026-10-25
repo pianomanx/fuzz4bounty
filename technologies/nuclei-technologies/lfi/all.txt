@@ -744,3 +744,5 @@
 /mailinspector
 /mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd
 /js/zimbraMail/share/model/ZmSettings.js
+/index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
+/api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd

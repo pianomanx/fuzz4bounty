@@ -146,3 +146,4 @@
 /wp-content/plugins/canto/readme.txt
 /wp-content/plugins/wp-content-permission/readme.txt
 /wp-content/uploads/{{logname}}.log
+/wp-content/plugins/the-events-calendar/readme.txt

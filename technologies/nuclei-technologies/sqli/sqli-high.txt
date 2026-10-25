@@ -65,3 +65,4 @@
 /forums/
 /community/
 /board/
+/wp-content/plugins/wpdm-premium-packages/readme.txt

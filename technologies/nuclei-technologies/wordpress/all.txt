@@ -1124,3 +1124,4 @@
 /wp-json/newfold-data/v1/verify/00000000000000000000000000000000
 /wp-json/wp/v2/users/me?context=edit
 /wp-admin/js/theme.js
+/wp-content/plugins/wpdm-premium-packages/readme.txt

@@ -171,3 +171,7 @@
 /allversions
 /auth/v1/account/login_options
 /auth/v1/account/status
+/jmx-console/
+/web-console/
+/web-console/ServerInfo.jsp
+/invoker/JMXInvokerServlet
