@@ -2332,3 +2332,4 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/index.php?option=com_simplemembership&task=checkLoginPass&format=raw&login=

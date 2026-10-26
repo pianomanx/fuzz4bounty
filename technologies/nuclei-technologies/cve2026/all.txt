@@ -182,3 +182,4 @@
 /index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
 /wp-content/plugins/wpdm-premium-packages/readme.txt
 /api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/index.php?option=com_simplemembership&task=checkLoginPass&format=raw&login=
