@@ -859,3 +859,7 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/forum/
+/forums/
+/community/
+/board/
