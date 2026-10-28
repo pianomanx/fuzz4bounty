@@ -73,3 +73,5 @@
 /wp-json/
 /index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
 /index.php?option=com_simplemembership&task=checkLoginPass&format=raw&login=
+/apps/richdocumentscode/proxy.php?nuclei_detect
+/apps/richdocumentscode_arm64/proxy.php?nuclei_detect
