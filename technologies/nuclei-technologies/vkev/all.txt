@@ -868,3 +868,4 @@
 /tika
 /apps/richdocumentscode/proxy.php?nuclei_detect
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/api/v1/terminal/sessions/

