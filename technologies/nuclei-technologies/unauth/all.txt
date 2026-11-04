@@ -457,3 +457,4 @@
 /jmx-console/
 /web-console/
 /invoker/JMXInvokerServlet
+/api/queues

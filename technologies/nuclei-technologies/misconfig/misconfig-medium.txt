@@ -177,3 +177,5 @@
 /api/v1/applications
 /environment/
 /transmission/rpc
+/api/queues
+/api/openapi.json

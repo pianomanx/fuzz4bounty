@@ -54,3 +54,7 @@
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
 /remote/login
 /login
+/api/user
+/api/me
+/api/profile
+/api/v1/user
