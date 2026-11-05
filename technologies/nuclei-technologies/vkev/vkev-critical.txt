@@ -366,3 +366,7 @@
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
 /commands.inc.php?searchOption=contains&searchField=vuln&search=search&searchColumn=command%20UNION%20ALL%20SELECT%20(SELECT%20CONCAT(0x223E3C42523E5B50574E5D,md5(
 /wp1/home-18/?qtproxycall=https://oast.me
+/api/user
+/api/me
+/api/profile
+/api/v1/user
