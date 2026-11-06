@@ -353,3 +353,4 @@
 /api/
 /api/health
 /super_admin/sign_in
+/crowd/console/login.action
