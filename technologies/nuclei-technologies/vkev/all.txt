@@ -882,3 +882,4 @@
 /api/v1/user
 /installed_emanual_list.html
 /api/project
+/user.action

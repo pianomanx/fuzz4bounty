@@ -370,3 +370,4 @@
 /api/me
 /api/profile
 /api/v1/user
+/user.action
