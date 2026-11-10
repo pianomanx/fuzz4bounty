@@ -458,3 +458,5 @@
 /web-console/
 /invoker/JMXInvokerServlet
 /api/queues
+/info
+/indexes

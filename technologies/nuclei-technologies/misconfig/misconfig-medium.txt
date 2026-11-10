@@ -179,3 +179,5 @@
 /transmission/rpc
 /api/queues
 /api/openapi.json
+/info
+/indexes

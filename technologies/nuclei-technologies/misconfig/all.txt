@@ -889,3 +889,4 @@
 /transmission/rpc
 /api/queues
 /api/openapi.json
+/indexes

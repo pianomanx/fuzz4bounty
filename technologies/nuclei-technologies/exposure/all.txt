@@ -1558,3 +1558,4 @@
 /lighter/api/configuration
 /api/queues
 /api/openapi.json
+/indexes

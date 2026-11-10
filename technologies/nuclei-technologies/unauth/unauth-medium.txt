@@ -149,3 +149,5 @@
 /
 /index.html
 /api/queues
+/info
+/indexes
