@@ -175,3 +175,6 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/auth
+/api/public/stream?url=http://{{interactsh-url}}/x.mp4
+/public/stream?url=http://{{interactsh-url}}/x.mp4

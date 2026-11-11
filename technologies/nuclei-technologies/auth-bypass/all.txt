@@ -130,3 +130,4 @@
 /api/me
 /api/profile
 /api/v1/user
+/account/forgot/api/password-reset

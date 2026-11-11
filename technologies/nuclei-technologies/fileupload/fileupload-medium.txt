@@ -1,0 +1,1 @@
+/wp-json/gutenkit/v1

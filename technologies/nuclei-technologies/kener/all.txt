@@ -1,1 +1,2 @@
 /
+/account/forgot/api/password-reset

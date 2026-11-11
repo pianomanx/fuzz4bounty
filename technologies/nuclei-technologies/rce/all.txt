@@ -312,3 +312,4 @@
 /wd/hub/session
 /apps/richdocumentscode/proxy.php?nuclei_detect
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/version

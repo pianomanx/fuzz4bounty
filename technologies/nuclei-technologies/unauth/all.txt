@@ -460,3 +460,7 @@
 /api/queues
 /info
 /indexes
+/version
+/auth
+/api/public/stream?url=http://{{interactsh-url}}/x.mp4
+/public/stream?url=http://{{interactsh-url}}/x.mp4

@@ -153,3 +153,5 @@
 /api/me
 /api/profile
 /api/v1/user
+/version
+/wp-json/gutenkit/v1
