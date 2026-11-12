@@ -47,3 +47,4 @@
 /wp-content/plugins/meta-box/readme.txt
 /allversions
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
+/api/version

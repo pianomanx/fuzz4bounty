@@ -1,1 +1,3 @@
 /api/tags
+/
+/api/version

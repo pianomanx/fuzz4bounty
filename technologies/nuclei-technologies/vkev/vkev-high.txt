@@ -307,3 +307,5 @@
 /bugs/verify.php?confirm_hash=&id=1
 /installed_emanual_list.html
 /api/project
+/wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/api/version
