@@ -707,3 +707,7 @@
 /auth/authorize?client_id=yamcs-web&state=stable-state&response_mode=query&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fexample.com%2Fcbi0i7y\
 /shop/?module=shop&action=search&cat_id=0&a=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&pr1=0&pr2=0
 /wp-json/gutenkit/v1
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
+/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php

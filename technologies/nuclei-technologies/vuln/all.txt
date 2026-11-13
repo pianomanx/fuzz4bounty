@@ -4508,3 +4508,7 @@
 /shop/?module=shop&action=search&cat_id=0&a=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&pr1=0&pr2=0
 /wp-json/gutenkit/v1
 /api/version
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
+/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php

