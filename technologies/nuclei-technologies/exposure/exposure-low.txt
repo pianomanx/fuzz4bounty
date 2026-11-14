@@ -379,3 +379,4 @@
 /api/v1/targets
 /api/auth/oidc/providers
 /api/auth/health
+/.vscode/mcp.json

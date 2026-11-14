@@ -479,3 +479,4 @@
 /api/auth/oidc/providers
 /api/auth/health
 /lighter/api/configuration
+/.vscode/mcp.json

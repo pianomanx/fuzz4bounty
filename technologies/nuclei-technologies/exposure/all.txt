@@ -1560,3 +1560,4 @@
 /api/openapi.json
 /indexes
 /api/version
+/.vscode/mcp.json
