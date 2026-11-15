@@ -1,3 +1,4 @@
 /dashboard/
 /api/rawdata
 /api/http/routers
+/api/version

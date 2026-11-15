@@ -458,3 +458,9 @@
 /wp-content/plugins/wpdm-premium-packages/readme.txt
 /api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /api/queues
+/version
+/auth
+/api/public/stream?url=http://{{interactsh-url}}/x.mp4
+/public/stream?url=http://{{interactsh-url}}/x.mp4
+/info
+/indexes

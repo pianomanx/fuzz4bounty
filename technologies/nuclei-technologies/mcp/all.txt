@@ -6,3 +6,4 @@
 /mcp/
 /sse
 /login
+/.vscode/mcp.json

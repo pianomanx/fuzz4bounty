@@ -109,3 +109,6 @@
 /wp-content/plugins/planyo-online-reservation-system/readme.txt
 /wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
 /version
+/auth
+/api/public/stream?url=http://{{interactsh-url}}/x.mp4
+/public/stream?url=http://{{interactsh-url}}/x.mp4

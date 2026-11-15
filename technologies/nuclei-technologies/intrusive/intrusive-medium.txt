@@ -38,3 +38,4 @@
 
 /amr
 /eSCL/ScannerCapabilities
+/wp-json/gutenkit/v1

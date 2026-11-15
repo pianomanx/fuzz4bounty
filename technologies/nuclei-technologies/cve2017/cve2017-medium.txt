@@ -29,3 +29,7 @@
 /base_import/static/etc/passwd
 /portal//..\\\..\\\..\\\..\\\windows\win.ini
 /install/index.php?step=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
+/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php

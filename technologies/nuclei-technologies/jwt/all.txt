@@ -8,3 +8,4 @@
 /.well-known/openid-configuration
 /realms/master/.well-known/openid-configuration
 /auth/realms/master/.well-known/openid-configuration
+/account/forgot/api/password-reset

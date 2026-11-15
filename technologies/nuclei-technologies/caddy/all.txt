@@ -1,1 +1,5 @@
 /%5C%5Cinteract.sh/%252e%252e%252f
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
+/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php

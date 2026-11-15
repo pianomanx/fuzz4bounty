@@ -48,3 +48,4 @@
 /.claude/agents/README.md
 /.claude/agents/code-reviewer.md
 /api/status
+/.vscode/mcp.json

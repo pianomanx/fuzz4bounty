@@ -889,3 +889,4 @@
 /environment/
 /api/queues
 /api/openapi.json
+/indexes

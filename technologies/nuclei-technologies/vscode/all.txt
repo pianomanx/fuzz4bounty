@@ -11,3 +11,4 @@
 /settings.json
 /.vscode/tasks.json
 /.vscode-server/data/Machine/settings.json
+/.vscode/mcp.json

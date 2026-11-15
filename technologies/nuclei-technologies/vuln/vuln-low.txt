@@ -631,3 +631,4 @@
 /wp-content/themes/twentytwenty-child/functions.php
 /wp-content/themes/astra-child/functions.php
 /wp-content/themes/generatepress-child/functions.php
+/.vscode/mcp.json

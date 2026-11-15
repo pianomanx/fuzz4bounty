@@ -3,3 +3,4 @@
 /?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini
 /wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt
 /wp-content/plugins/wp-content-permission/readme.txt
+/wp-json/gutenkit/v1

