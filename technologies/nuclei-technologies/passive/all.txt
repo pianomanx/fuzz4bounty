@@ -48,3 +48,4 @@
 /allversions
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /api/version
+/administrator/manifests/files/joomla.xml

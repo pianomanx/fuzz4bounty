@@ -1561,3 +1561,7 @@
 /indexes
 /api/version
 /.vscode/mcp.json
+/config/runtime
+/api/v2/trees
+/apis/registry/v3/system/uiConfig
+/apis/registry/v3/search/artifacts

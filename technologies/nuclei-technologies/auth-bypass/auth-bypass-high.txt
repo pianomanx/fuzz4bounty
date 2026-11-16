@@ -49,3 +49,4 @@
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
 /api/version
+/administrator/manifests/files/joomla.xml

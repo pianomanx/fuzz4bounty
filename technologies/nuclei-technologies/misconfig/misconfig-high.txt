@@ -310,3 +310,4 @@
 /v3/auth/status
 /members
 /api/manager/submit?group=1&username={{username}}&password={{password}}
+/api/v2/trees

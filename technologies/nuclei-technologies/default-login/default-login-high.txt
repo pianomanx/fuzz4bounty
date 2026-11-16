@@ -39,3 +39,4 @@
 /api/method/login
 
 /PageAEventlog.asp
+/admin/

