@@ -20,3 +20,4 @@
 /
 /ApplicationStatus
 /api/status
+/bugtraceai

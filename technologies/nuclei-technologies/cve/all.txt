@@ -2363,3 +2363,6 @@
 /typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /administrator/manifests/files/joomla.xml
 /config/runtime
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

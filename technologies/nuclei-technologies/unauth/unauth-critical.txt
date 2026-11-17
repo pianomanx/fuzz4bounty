@@ -109,3 +109,5 @@
 /wp-json/
 /index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
 /version
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

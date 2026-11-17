@@ -426,3 +426,5 @@
 /js/elFinder.version.js
 /ocs/v1.php/cloud/capabilities?format=json
 /crowd/console/login.action
+/bugtraceai
+/dashboard.html

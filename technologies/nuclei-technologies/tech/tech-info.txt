@@ -690,3 +690,5 @@
 /js/elfinder.min.js
 /js/elFinder.version.js
 /ocs/v1.php/cloud/capabilities?format=json
+/bugtraceai
+/dashboard.html

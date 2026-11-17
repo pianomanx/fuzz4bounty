@@ -468,3 +468,5 @@
 /api/v2/trees
 /apis/registry/v3/system/uiConfig
 /apis/registry/v3/search/artifacts
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

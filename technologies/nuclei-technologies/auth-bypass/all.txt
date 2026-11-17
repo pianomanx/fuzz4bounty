@@ -133,3 +133,5 @@
 /account/forgot/api/password-reset
 /api/version
 /administrator/manifests/files/joomla.xml
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

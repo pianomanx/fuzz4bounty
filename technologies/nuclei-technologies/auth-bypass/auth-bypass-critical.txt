@@ -75,3 +75,5 @@
 /api/profile
 /api/v1/user
 /account/forgot/api/password-reset
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

@@ -81,3 +81,4 @@
 /execute_js
 /html
 /index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json

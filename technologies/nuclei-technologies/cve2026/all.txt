@@ -208,3 +208,6 @@
 /api/version
 /rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})
 /config/runtime
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

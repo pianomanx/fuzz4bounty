@@ -70,3 +70,4 @@
 /wp-content/plugins/all-in-one-wp-migration/readme.txt
 /wp-content/uploads/{{logname}}.log
 /api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json

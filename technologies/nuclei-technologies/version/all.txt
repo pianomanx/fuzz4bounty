@@ -6,3 +6,5 @@
 /wp-links-opml.php
 /js/elfinder.min.js
 /js/elFinder.version.js
+/dashboard.html
+/
