@@ -155,3 +155,4 @@
 /api/v1/user
 /version
 /wp-json/gutenkit/v1
+/wp-content/plugins/local-sync/README.txt

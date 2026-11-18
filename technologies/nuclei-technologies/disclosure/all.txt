@@ -223,3 +223,7 @@
 /wp-content/plugins/the-events-calendar/readme.txt
 /xwiki/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
 /bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/webdynpro/resources/sap.com/tc~eu~jwf~wdgp/JWFTestAddAssignees
+/webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages

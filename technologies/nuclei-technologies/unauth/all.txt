@@ -470,3 +470,6 @@
 /apis/registry/v3/search/artifacts
 /api/global/template/definitions
 /api/global/template/definitions?x=/api/system/status
+/wp-content/plugins/local-sync/README.txt
+/api/4/args
+/api/2.1/unity-catalog/catalogs

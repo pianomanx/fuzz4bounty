@@ -76,3 +76,4 @@
 /
 /api/version
 /config/runtime
+/api/4/args

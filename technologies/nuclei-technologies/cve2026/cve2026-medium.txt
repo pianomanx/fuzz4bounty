@@ -46,3 +46,5 @@
 /transmission/rpc
 /api/queues
 /wp-json/gutenkit/v1
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info

@@ -13,3 +13,4 @@
 /wp-content/{{filename}}
 /wp-content/uploads/isnapshots/{{fname}}.php
 /wp-content/plugins/elementor-pro/readme.txt
+/wp-content/plugins/local-sync/README.txt

@@ -346,3 +346,5 @@
 /wp-json/essential-blocks/v1/products?per_page=20
 /wp-content/plugins/the-events-calendar/readme.txt
 /wp-json/gutenkit/v1
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info

@@ -442,3 +442,5 @@
 /api/version
 /config/runtime
 /api/v2/trees
+/api/4/args
+/api/2.1/unity-catalog/catalogs
