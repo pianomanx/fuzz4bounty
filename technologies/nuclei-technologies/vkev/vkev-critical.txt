@@ -377,3 +377,6 @@
 /actions/authenticate.php
 /jsrpc.php?type=0&mode=1&method=screen.get&profileIdx=web.item.graph&resourcetype=17&profileIdx2=updatexml(0,concat(0xa,user()),0)::
 /auth/newpassword
+/moveitisapi/moveitisapi.dll?action=capa
+/wp-content/plugins/local-sync/README.txt
+/cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22

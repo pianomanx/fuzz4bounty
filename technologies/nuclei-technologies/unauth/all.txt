@@ -473,3 +473,5 @@
 /wp-content/plugins/local-sync/README.txt
 /api/4/args
 /api/2.1/unity-catalog/catalogs
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}

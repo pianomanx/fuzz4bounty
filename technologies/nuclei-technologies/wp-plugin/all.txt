@@ -942,3 +942,5 @@
 /wp-content/plugins/local-sync/README.txt
 /?rest_route=/appp/v1/system-info
 /wp-json/appp/v1/system-info
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}

@@ -120,3 +120,5 @@
 /auth/v1/account/status
 /apps/richdocumentscode/proxy.php?nuclei_detect
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/moveitisapi/moveitisapi.dll?action=capa
+/cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22

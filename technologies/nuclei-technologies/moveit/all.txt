@@ -1,2 +1,3 @@
 
 /human.aspx
+/moveitisapi/moveitisapi.dll?action=capa

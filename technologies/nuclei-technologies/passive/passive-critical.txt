@@ -33,3 +33,4 @@
 /allversions
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /user/login
+/moveitisapi/moveitisapi.dll?action=capa

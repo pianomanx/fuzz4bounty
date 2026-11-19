@@ -135,3 +135,4 @@
 /administrator/manifests/files/joomla.xml
 /api/global/template/definitions
 /api/global/template/definitions?x=/api/system/status
+/moveitisapi/moveitisapi.dll?action=capa
