@@ -1,1 +1,4 @@
 /ui/login?from=/dashboards
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs

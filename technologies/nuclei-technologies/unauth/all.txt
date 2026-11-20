@@ -475,3 +475,7 @@
 /api/2.1/unity-catalog/catalogs
 /wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
 /wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs
+/%5B:local:/etc%5D/passwd

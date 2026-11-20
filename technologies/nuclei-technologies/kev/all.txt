@@ -200,3 +200,6 @@
 /moveitisapi/moveitisapi.dll?action=capa
 /cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22
 /guardrails/test_custom_code
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs

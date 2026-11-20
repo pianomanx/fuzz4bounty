@@ -552,3 +552,4 @@
 /api/global/template/definitions
 /api/global/template/definitions?x=/api/system/status
 /wp-content/plugins/local-sync/README.txt
+/%5B:local:/etc%5D/passwd

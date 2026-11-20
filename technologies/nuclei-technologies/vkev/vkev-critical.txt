@@ -380,3 +380,5 @@
 /moveitisapi/moveitisapi.dll?action=capa
 /wp-content/plugins/local-sync/README.txt
 /cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}
