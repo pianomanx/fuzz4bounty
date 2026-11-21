@@ -221,3 +221,4 @@
 /allversions
 /wp-content/plugins/the-events-calendar/readme.txt
 /moveitisapi/moveitisapi.dll?action=capa
+/owa/auth/logon.aspx

@@ -64,3 +64,4 @@
 /wp-content/uploads/isnapshots/{{fname}}.php
 /allversions
 /moveitisapi/moveitisapi.dll?action=capa
+/owa/auth/logon.aspx

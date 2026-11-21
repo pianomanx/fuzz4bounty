@@ -50,3 +50,4 @@
 /api/version
 /administrator/manifests/files/joomla.xml
 /moveitisapi/moveitisapi.dll?action=capa
+/owa/auth/logon.aspx

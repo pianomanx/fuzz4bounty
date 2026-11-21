@@ -909,3 +909,10 @@
 /webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages
 /wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
 /wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}
+/owa/auth/logon.aspx
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs
+/static/js/../../../../../../../../../../../../../../etc/passwd
+/labkey/__r1/login-login.view?returnUrl=http://interact.sh
+/system/modules/alkacon.mercury.template.jsondemo/elements/jsonapi.jsp?content&fallbackLocale&locale=en&rows=1&uri=http://interact.sh
