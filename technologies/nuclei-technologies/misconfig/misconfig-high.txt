@@ -310,3 +310,5 @@
 /v3/auth/status
 /members
 /api/manager/submit?group=1&username={{username}}&password={{password}}
+/api/v2/trees
+/api/2.1/unity-catalog/catalogs

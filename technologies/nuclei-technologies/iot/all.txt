@@ -121,3 +121,4 @@
 /cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING
 /sign_in
 /skServer/serialports
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json

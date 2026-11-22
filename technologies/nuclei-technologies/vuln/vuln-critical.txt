@@ -548,3 +548,8 @@
 /fog/status/getfiles.php?path[]=
 /apps/richdocumentscode/proxy.php?nuclei_detect
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/wp-content/plugins/local-sync/README.txt
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status
+/%5B:local:/etc%5D/passwd

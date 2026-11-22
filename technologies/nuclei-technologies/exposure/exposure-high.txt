@@ -440,3 +440,7 @@
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
 /api/version
+/api/4/args
+/config/runtime
+/api/v2/trees
+/api/2.1/unity-catalog/catalogs

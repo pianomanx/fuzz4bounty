@@ -48,3 +48,6 @@
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /allversions
 /api/version
+/owa/auth/logon.aspx
+/moveitisapi/moveitisapi.dll?action=capa
+/administrator/manifests/files/joomla.xml

@@ -61,3 +61,5 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/
+/guardrails/test_custom_code

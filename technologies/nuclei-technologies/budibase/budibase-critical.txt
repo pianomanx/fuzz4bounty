@@ -1,0 +1,2 @@
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

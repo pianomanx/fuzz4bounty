@@ -1129,3 +1129,8 @@
 /?s=zzz%25%27%20OR%20%28post_type%3D%27emd_ticket%27%29%20OR%20%27x
 /?s=zzz%25%27%20AND%20%28post_type%3D%27emd_ticket%27%29%20AND%20%27x
 /wp-json/gutenkit/v1
+/wp-content/plugins/local-sync/README.txt
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info

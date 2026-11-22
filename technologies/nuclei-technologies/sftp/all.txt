@@ -4,3 +4,4 @@
 /sftp.json
 /.config/sftp.json
 /.vscode/sftp.json
+/moveitisapi/moveitisapi.dll?action=capa

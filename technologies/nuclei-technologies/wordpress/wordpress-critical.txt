@@ -83,3 +83,6 @@
 /?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
 /wp-json/wc-hippoo/v1/ext/wp/v2/users/1
 /wp-json/
+/wp-content/plugins/local-sync/README.txt
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}

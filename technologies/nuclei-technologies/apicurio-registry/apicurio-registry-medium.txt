@@ -1,0 +1,2 @@
+/apis/registry/v3/system/uiConfig
+/apis/registry/v3/search/artifacts

@@ -223,3 +223,10 @@
 /typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
 /caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/webshell4/login.php?errcode=0&login=\%22%20onfocus=alert(document.domain);%20autofocus%20\%22&err=U
+/webdynpro/resources/sap.com/tc~eu~jwf~wdgp/JWFTestAddAssignees
+/webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages
+/labkey/__r1/login-login.view?returnUrl=http://interact.sh
+/system/modules/alkacon.mercury.template.jsondemo/elements/jsonapi.jsp?content&fallbackLocale&locale=en&rows=1&uri=http://interact.sh

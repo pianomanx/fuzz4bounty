@@ -178,3 +178,7 @@
 /auth
 /api/public/stream?url=http://{{interactsh-url}}/x.mp4
 /public/stream?url=http://{{interactsh-url}}/x.mp4
+/api/4/args
+/config/runtime
+/api/v2/trees
+/api/2.1/unity-catalog/catalogs

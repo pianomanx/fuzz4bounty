@@ -132,3 +132,10 @@
 /api/v1/user
 /account/forgot/api/password-reset
 /api/version
+/moveitisapi/moveitisapi.dll?action=capa
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs
+/administrator/manifests/files/joomla.xml

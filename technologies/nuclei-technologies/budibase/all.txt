@@ -1,2 +1,4 @@
 /builder/auth/login
 /api/global/configs/checklist
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status

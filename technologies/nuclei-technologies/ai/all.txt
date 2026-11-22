@@ -49,3 +49,4 @@
 /.claude/agents/code-reviewer.md
 /api/status
 /.vscode/mcp.json
+/bugtraceai

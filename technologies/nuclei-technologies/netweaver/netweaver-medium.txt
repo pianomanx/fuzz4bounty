@@ -1,0 +1,4 @@
+/webdynpro/resources/sap.com/tc~eu~jwf~wdgp/JWFTestAddAssignees
+/webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages

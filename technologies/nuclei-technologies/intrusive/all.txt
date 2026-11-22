@@ -155,3 +155,6 @@
 /api/v1/user
 /version
 /wp-json/gutenkit/v1
+/wp-content/plugins/local-sync/README.txt
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}

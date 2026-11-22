@@ -1,0 +1,1 @@
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json

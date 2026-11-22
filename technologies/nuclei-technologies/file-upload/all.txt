@@ -31,3 +31,6 @@
 /wp-content/plugins/canto/readme.txt
 /wp-content/uploads/isnapshots/{{fname}}.php
 /wp-content/plugins/elementor-pro/readme.txt
+/wp-content/plugins/local-sync/README.txt
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}

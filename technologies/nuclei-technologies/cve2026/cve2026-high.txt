@@ -75,3 +75,5 @@
 /api/public/stream?url=http://{{interactsh-url}}/x.mp4
 /public/stream?url=http://{{interactsh-url}}/x.mp4
 /
+/api/4/args
+/config/runtime

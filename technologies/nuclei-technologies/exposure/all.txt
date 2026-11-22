@@ -1561,3 +1561,11 @@
 /api/version
 /.vscode/mcp.json
 /indexes
+/api/4/args
+/config/runtime
+/api/v2/trees
+/api/2.1/unity-catalog/catalogs
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info
+/apis/registry/v3/system/uiConfig
+/apis/registry/v3/search/artifacts

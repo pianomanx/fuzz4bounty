@@ -1370,3 +1370,5 @@
 /rest/api/content/macro/preview
 /wp-admin/js/theme.js
 /api/version
+/api/4/args
+/config/runtime

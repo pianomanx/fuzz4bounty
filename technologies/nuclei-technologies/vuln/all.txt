@@ -4513,3 +4513,10 @@
 /caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /wp-json/gutenkit/v1
+/wp-content/plugins/local-sync/README.txt
+/signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json
+/api/global/template/definitions
+/api/global/template/definitions?x=/api/system/status
+/%5B:local:/etc%5D/passwd
+/api/4/args
+/config/runtime

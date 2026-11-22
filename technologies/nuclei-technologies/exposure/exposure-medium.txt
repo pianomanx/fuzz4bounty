@@ -418,3 +418,7 @@
 /api/openapi.json
 /info
 /indexes
+/?rest_route=/appp/v1/system-info
+/wp-json/appp/v1/system-info
+/apis/registry/v3/system/uiConfig
+/apis/registry/v3/search/artifacts

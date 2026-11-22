@@ -890,3 +890,7 @@
 /api/queues
 /api/openapi.json
 /indexes
+/api/v2/trees
+/api/2.1/unity-catalog/catalogs
+/apis/registry/v3/system/uiConfig
+/apis/registry/v3/search/artifacts

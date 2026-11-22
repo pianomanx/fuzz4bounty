@@ -33,3 +33,5 @@
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /allversions
 /user/login
+/owa/auth/logon.aspx
+/moveitisapi/moveitisapi.dll?action=capa

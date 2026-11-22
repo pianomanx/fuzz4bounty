@@ -177,3 +177,12 @@
 /invoker/JMXInvokerServlet
 /apps/richdocumentscode/proxy.php?nuclei_detect
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/owa/auth/logon.aspx
+/api/v1/configs
+/api/v1/main/flows/{{namespace}}/ordinary
+/api/v1/main/flows/{{namespace}}/configs
+/guardrails/test_custom_code
+/webdynpro/resources/sap.com/tc~eu~jwf~wdgp/JWFTestAddAssignees
+/webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
+/webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages

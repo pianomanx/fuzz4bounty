@@ -220,3 +220,5 @@
 /wp-content/uploads/isnapshots/{{fname}}.php
 /allversions
 /wp-content/plugins/the-events-calendar/readme.txt
+/owa/auth/logon.aspx
+/moveitisapi/moveitisapi.dll?action=capa

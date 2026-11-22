@@ -20,3 +20,4 @@
 /ping
 /ApplicationStatus
 /api/status
+/bugtraceai
