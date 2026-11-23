@@ -1569,3 +1569,4 @@
 /api/2.1/unity-catalog/catalogs
 /?rest_route=/appp/v1/system-info
 /wp-json/appp/v1/system-info
+/playground

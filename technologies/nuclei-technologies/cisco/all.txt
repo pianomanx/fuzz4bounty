@@ -37,3 +37,4 @@
 /ucmuser/
 /cucm-uds/version
 /cucm-uds/servers
+/admin/public/index.html

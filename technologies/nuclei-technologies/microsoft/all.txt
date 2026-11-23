@@ -39,3 +39,5 @@
 /autodiscover/autodiscover.json/v1.0/{{randstr}}@interact.sh?Protocol=Autodiscoverv1
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
+/
+/owa/

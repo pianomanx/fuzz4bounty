@@ -35,3 +35,4 @@
 /user/login
 /moveitisapi/moveitisapi.dll?action=capa
 /owa/auth/logon.aspx
+/ui/login

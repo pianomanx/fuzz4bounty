@@ -11,3 +11,5 @@
 /
 /api/version
 /administrator/manifests/files/joomla.xml
+/admin/public/index.html
+/owa/

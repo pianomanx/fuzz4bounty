@@ -147,3 +147,4 @@
 /wp-content/uploads/{{logname}}.log
 /wp-content/plugins/wp-content-permission/readme.txt
 /wp-content/plugins/the-events-calendar/readme.txt
+/feed/

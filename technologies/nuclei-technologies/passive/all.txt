@@ -51,3 +51,7 @@
 /administrator/manifests/files/joomla.xml
 /moveitisapi/moveitisapi.dll?action=capa
 /owa/auth/logon.aspx
+/ui/login
+/admin/public/index.html
+/owa/
+/feed/

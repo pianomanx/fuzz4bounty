@@ -12,3 +12,4 @@
 /_vti_bin/lists.asmx?WSDL
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
+/

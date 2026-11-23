@@ -3,3 +3,6 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/admin-console/login.seam?actionOutcome=/success.xhtml%3F{{marker}}%3D%23%7B{{first}}*{{second}}%7D
+/admin-console/index.seam?actionOutcome=/success.xhtml%3F{{marker}}%3D%23%7B{{first}}*{{second}}%7D
+/seam-booking/home.seam?actionOutcome=/success.xhtml%3F{{marker}}%3D%23%7B{{first}}*{{second}}%7D

@@ -126,3 +126,4 @@
 /api/v1/main/flows/{{namespace}}/ordinary
 /api/v1/main/flows/{{namespace}}/configs
 /owa/auth/logon.aspx
+/ui/login

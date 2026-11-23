@@ -18,3 +18,4 @@
 /debug/vars
 /.terraformrc
 /terraform.rc
+/playground

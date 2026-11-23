@@ -13,3 +13,4 @@
 /openam/ui/PWResetUserValidation
 /jmx-console/
 /jbossmq-httpil/HTTPServerILServlet
+/ui/login

