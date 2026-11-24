@@ -6,3 +6,5 @@
 /client/index.php%3F.php/gsb/users.php
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
+/dana-na/nc/nc_gina_ver.txt
+/dana-na/auth/url_admin/welcome.cgi?type=inter

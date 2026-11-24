@@ -7,3 +7,4 @@
 /sse
 /login
 /.vscode/mcp.json
+/api/healthz

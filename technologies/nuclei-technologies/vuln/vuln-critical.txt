@@ -553,3 +553,7 @@
 /api/global/template/definitions?x=/api/system/status
 /wp-content/plugins/local-sync/README.txt
 /%5B:local:/etc%5D/passwd
+/dana-na/auth/url_admin/welcome.cgi?type=inter
+/dana-na/nc/nc_gina_ver.txt
+/documents
+/auth-status

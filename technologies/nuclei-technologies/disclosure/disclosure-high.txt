@@ -47,3 +47,5 @@
 /papi/em/transform/getEmDsList
 /xwiki/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
 /bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/wp-json/wp/v2/pages?search=bookit&per_page=20&order=asc&orderby=date
+/wp-json/wp/v2/posts?search=bookit&per_page=20&order=asc&orderby=date

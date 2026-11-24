@@ -148,3 +148,5 @@
 /wp-content/plugins/wp-content-permission/readme.txt
 /wp-content/plugins/the-events-calendar/readme.txt
 /feed/
+/?action=genpdf&id=999999
+/wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10

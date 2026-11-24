@@ -127,3 +127,6 @@
 /api/v1/main/flows/{{namespace}}/configs
 /owa/auth/logon.aspx
 /ui/login
+/dana-na/nc/nc_gina_ver.txt
+/dana-na/auth/url_admin/welcome.cgi?type=inter
+/cucm-uds/version

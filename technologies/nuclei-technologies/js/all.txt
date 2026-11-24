@@ -6,3 +6,4 @@
 /config/runtime-env.js
 /
 /scripts/weglot.js
+/.well-known/acme-challenge/{{verifier_name}}

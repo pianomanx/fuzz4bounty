@@ -1,2 +1,3 @@
 /admin/install/server
 /admin/login
+/.well-known/acme-challenge/{{verifier_name}}

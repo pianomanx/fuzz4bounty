@@ -2,3 +2,4 @@
 /login
 /global-protect/login.esp
 /sslmgr
+/dana-na/nc/nc_gina_ver.txt

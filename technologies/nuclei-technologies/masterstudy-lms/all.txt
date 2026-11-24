@@ -1,0 +1,1 @@
+/wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10

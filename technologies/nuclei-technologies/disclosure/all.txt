@@ -227,3 +227,6 @@
 /webdynpro/dispatcher/sap.com/tc~eu~jwf~wdgp/com.sap.workflow.wdgp.general.test.JWFTestAddAssignees
 /webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Chat
 /webdynpro/resources/sap.com/tc~rtc~coll.appl.rtc~wd_chat/Messages
+/wp-json/wp/v2/pages?search=bookit&per_page=20&order=asc&orderby=date
+/wp-json/wp/v2/posts?search=bookit&per_page=20&order=asc&orderby=date
+/wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10

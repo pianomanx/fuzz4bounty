@@ -2,3 +2,4 @@
 /dumpmdm.cmd
 /+CSCOE+/session_password.html
 /ui/login
+/cucm-uds/version

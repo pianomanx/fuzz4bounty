@@ -19,3 +19,4 @@
 /admin/admin.html
 /
 /workplace/home.action
+/dana-na/nc/nc_gina_ver.txt

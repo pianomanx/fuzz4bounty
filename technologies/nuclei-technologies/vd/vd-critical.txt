@@ -1,2 +1,4 @@
 /ui/login
 /
+/dana-na/nc/nc_gina_ver.txt
+/cucm-uds/version

@@ -50,3 +50,6 @@
 /api/status
 /.vscode/mcp.json
 /bugtraceai
+/documents
+/auth-status
+/api/healthz

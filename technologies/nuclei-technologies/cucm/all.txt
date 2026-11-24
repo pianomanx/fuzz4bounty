@@ -1,1 +1,2 @@
 /cucm-uds/users
+/cucm-uds/version

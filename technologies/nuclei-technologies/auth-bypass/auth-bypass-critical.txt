@@ -81,3 +81,6 @@
 /api/v1/configs
 /api/v1/main/flows/{{namespace}}/ordinary
 /api/v1/main/flows/{{namespace}}/configs
+/dana-na/nc/nc_gina_ver.txt
+/documents
+/auth-status

@@ -6,3 +6,4 @@
 /amr
 /eSCL/ScannerCapabilities
 /screens/wms/wms.cgi
+/.well-known/acme-challenge/{{verifier_name}}

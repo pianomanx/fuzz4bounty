@@ -183,3 +183,6 @@
 /api/4/args
 /api/2.1/unity-catalog/catalogs
 /api/app-images/logo?color=red%7D%3C%2Fstyle%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E%3Cstyle%3Ex%7B
+/wp-json/wp/v2/pages?search=bookit&per_page=20&order=asc&orderby=date
+/wp-json/wp/v2/posts?search=bookit&per_page=20&order=asc&orderby=date
+/api/healthz

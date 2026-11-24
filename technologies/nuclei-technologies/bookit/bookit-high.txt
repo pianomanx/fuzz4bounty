@@ -1,1 +1,3 @@
 /wp-content/plugins/bookit/readme.txt
+/wp-json/wp/v2/pages?search=bookit&per_page=20&order=asc&orderby=date
+/wp-json/wp/v2/posts?search=bookit&per_page=20&order=asc&orderby=date

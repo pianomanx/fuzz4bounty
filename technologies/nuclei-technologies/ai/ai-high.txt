@@ -5,3 +5,4 @@
 /organization-setup
 /
 /list_personalities?category=../..
+/api/healthz

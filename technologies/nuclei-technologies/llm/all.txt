@@ -13,3 +13,4 @@
 /api-description
 /models
 /ping
+/api/healthz

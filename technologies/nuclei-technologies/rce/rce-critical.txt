@@ -262,3 +262,5 @@
 /api/v1/main/flows/{{namespace}}/configs
 /%5B:local:/etc%5D/passwd
 /ui/login
+/cucm-uds/version
+/.well-known/acme-challenge/{{verifier_name}}

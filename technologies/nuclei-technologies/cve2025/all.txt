@@ -194,3 +194,5 @@
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
 /version
+/dana-na/auth/url_admin/welcome.cgi?type=inter
+/dana-na/nc/nc_gina_ver.txt
