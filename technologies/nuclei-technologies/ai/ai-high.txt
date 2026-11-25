@@ -6,3 +6,4 @@
 /
 /list_personalities?category=../..
 /api/healthz
+/api/agents

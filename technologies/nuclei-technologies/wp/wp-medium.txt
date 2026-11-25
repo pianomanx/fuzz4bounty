@@ -150,3 +150,9 @@
 /feed/
 /?action=genpdf&id=999999
 /wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10
+/wp-json/ultimate-security-for-woocommerce/v1/plugin-info
+/?rest_route=/ultimate-security-for-woocommerce/v1/plugin-info
+/wp-json/ultimate-security-for-woocommerce/v1/options
+/?rest_route=/ultimate-security-for-woocommerce/v1/options
+/wp-login.php?action=members_rescue
+{{loginpath}}?robots=1

@@ -1,1 +1,2 @@
 /home
+/api/v2?cmd=docs&callback={{marker}}(1)

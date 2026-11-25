@@ -12,3 +12,4 @@
 /plugins/weathermap/configs/poc.conf
 /graph_view.php
 /cacti/graph_view.php
+/graph_image.php?local_graph_id=1&rra_id=0&show_source=1&graph_theme=midwinter/.

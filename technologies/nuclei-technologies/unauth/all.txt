@@ -494,3 +494,17 @@
 /rss/tag/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
 /index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1
 /w/index.php?title=Special:Ask&q=%5B%5BText%3A%3A{{url_encode(payload)}}%5D%5D&debug=1
+/parse/health
+/graph_image.php?local_graph_id=1&rra_id=0&show_source=1&graph_theme=midwinter/.
+/api/agents
+/wp-json/yoast/v1/get_head?url={{RootURL}}/
+/wp-json/ultimate-security-for-woocommerce/v1/plugin-info
+/?rest_route=/ultimate-security-for-woocommerce/v1/plugin-info
+/wp-json/ultimate-security-for-woocommerce/v1/options
+/?rest_route=/ultimate-security-for-woocommerce/v1/options
+/actions/graphql/api
+/wp-login.php?action=members_rescue
+{{loginpath}}?robots=1
+/api/v2?cmd=docs&callback={{marker}}(1)
+/index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bcursor%5D={{url_encode(base64(cursor))}}
+/w/index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bcursor%5D={{url_encode(base64(cursor))}}

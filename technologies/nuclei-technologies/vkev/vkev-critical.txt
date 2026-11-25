@@ -390,3 +390,4 @@
 /dana-na/nc/nc_gina_ver.txt
 /dana-na/auth/url_admin/welcome.cgi?type=inter
 /cucm-uds/version
+/.well-known/acme-challenge/{{verifier_name}}

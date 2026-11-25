@@ -4524,3 +4524,6 @@
 /dana-na/nc/nc_gina_ver.txt
 /documents
 /auth-status
+/parse/health
+/graph_image.php?local_graph_id=1&rra_id=0&show_source=1&graph_theme=midwinter/.
+/api/v2?cmd=docs&callback={{marker}}(1)

@@ -3,3 +3,5 @@
 /wp-content/plugins/members/inc/class-role.php
 
 /wp-content/debug.log
+/wp-login.php?action=members_rescue
+{{loginpath}}?robots=1

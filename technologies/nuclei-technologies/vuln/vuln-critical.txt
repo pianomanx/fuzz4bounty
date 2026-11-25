@@ -557,3 +557,4 @@
 /dana-na/nc/nc_gina_ver.txt
 /documents
 /auth-status
+/parse/health

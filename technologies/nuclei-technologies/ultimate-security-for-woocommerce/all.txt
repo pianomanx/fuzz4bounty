@@ -1,0 +1,4 @@
+/wp-json/ultimate-security-for-woocommerce/v1/plugin-info
+/?rest_route=/ultimate-security-for-woocommerce/v1/plugin-info
+/wp-json/ultimate-security-for-woocommerce/v1/options
+/?rest_route=/ultimate-security-for-woocommerce/v1/options

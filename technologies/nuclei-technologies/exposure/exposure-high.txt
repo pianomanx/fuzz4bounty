@@ -445,3 +445,4 @@
 /api/4/args
 /api/2.1/unity-catalog/catalogs
 /api/healthz
+/api/agents

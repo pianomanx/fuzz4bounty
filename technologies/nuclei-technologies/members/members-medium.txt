@@ -1,0 +1,3 @@
+/wp-login.php?action=members_rescue
+
+{{loginpath}}?robots=1

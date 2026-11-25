@@ -83,3 +83,5 @@
 /README.txt
 /modules/custom.xml
 /.p4ignore
+/
+/wp-json/yoast/v1/get_head?url={{RootURL}}/

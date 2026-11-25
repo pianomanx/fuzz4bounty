@@ -927,3 +927,4 @@
 /dana-na/auth/url_admin/welcome.cgi?type=inter
 /cucm-uds/version
 /config/list
+/.well-known/acme-challenge/{{verifier_name}}

@@ -165,3 +165,5 @@
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/ImagifyNoticeServiceProvider.php
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/LazyloadServiceProvider.php
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/SubscribersServiceProvider.php
+/
+/wp-json/yoast/v1/get_head?url={{RootURL}}/
