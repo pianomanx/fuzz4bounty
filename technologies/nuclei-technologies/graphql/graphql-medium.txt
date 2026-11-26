@@ -1,1 +1,2 @@
 /actions/graphql/api
+/wp-content/plugins/wp-graphql-content-blocks/readme.txt

@@ -1,1 +1,2 @@
 /contao/%22%3e%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/assets/images/%2e%2e/%2e%2e/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg

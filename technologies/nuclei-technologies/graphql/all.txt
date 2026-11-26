@@ -13,3 +13,5 @@
 /v1/graphql
 /api/v4/projects?visibility=public&per_page=1
 /actions/graphql/api
+/console
+/wp-content/plugins/wp-graphql-content-blocks/readme.txt

@@ -46,3 +46,6 @@
 
 /PageAEventlog.asp
 /admin/
+/api/app/about/startup-info
+/login_check
+/config

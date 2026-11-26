@@ -171,3 +171,6 @@
 /api/v2?cmd=docs&callback={{marker}}(1)
 /index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bcursor%5D={{url_encode(base64(cursor))}}
 /w/index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bcursor%5D={{url_encode(base64(cursor))}}
+/assets/images/%2e%2e/%2e%2e/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg
+/wp-content/plugins/kirki/readme.txt
+/wp-content/plugins/wp-graphql-content-blocks/readme.txt

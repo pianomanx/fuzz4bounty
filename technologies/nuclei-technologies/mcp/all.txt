@@ -8,3 +8,4 @@
 /login
 /.vscode/mcp.json
 /api/healthz
+{{path}}

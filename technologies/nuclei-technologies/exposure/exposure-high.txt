@@ -446,3 +446,10 @@
 /api/2.1/unity-catalog/catalogs
 /api/healthz
 /api/agents
+/v1/onboarding/config
+/backend/v1/onboarding/config
+/v1/onboarding/config?token=
+/backend/v1/onboarding/config?token=
+/status
+/api/info
+/api/connection

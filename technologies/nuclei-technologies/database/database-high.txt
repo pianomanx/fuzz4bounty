@@ -5,3 +5,5 @@
 /.pgpass
 /data/db.sqlite
 /kanboard/data/db.sqlite
+/api/info
+/api/connection

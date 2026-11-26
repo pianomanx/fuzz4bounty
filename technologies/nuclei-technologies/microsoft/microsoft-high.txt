@@ -4,3 +4,4 @@
 /ReportServer/Pages/ReportViewer.aspx
 /mgmnt/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini
 /owa/
+/

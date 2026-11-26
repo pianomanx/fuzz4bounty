@@ -894,3 +894,5 @@
 /apis/registry/v3/system/uiConfig
 /apis/registry/v3/search/artifacts
 /api/2.1/unity-catalog/catalogs
+/api/info
+/api/connection

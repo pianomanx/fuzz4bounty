@@ -1498,3 +1498,4 @@
 /xymon/
 /xymon-se/xymon/
 /_api/web/lists
+/api/sonicos/is-sslvpn-enabled

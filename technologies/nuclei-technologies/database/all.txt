@@ -18,3 +18,5 @@
 /src/prisma/schema.prisma
 /db/schema.prisma
 /.prisma/schema.prisma
+/api/info
+/api/connection

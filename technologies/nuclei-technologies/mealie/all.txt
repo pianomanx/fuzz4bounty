@@ -1,2 +1,3 @@
 
 /api/app/about
+/api/app/about/startup-info

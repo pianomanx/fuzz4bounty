@@ -54,3 +54,4 @@
 /auth-status
 /api/healthz
 /api/agents
+{{path}}

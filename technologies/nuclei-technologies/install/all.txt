@@ -86,3 +86,4 @@
 /admin/setup
 /installer/
 /install/page_start.php
+/status

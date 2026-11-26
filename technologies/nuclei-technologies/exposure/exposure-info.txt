@@ -319,3 +319,4 @@
 /auth
 ?wsdl
 /server/info
+/api/sonicos/is-sslvpn-enabled

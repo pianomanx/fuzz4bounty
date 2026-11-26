@@ -231,3 +231,4 @@
 /wp-json/wp/v2/posts?search=bookit&per_page=20&order=asc&orderby=date
 /wp-json/masterstudy-lms/v2/student-courses?user=1&page=1&pp=10
 /wp-json/yoast/v1/get_head?url={{RootURL}}/
+/wp-content/plugins/kirki/readme.txt

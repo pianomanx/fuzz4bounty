@@ -17,3 +17,4 @@
 /var/linkchecker.html
 /_fragment
 /?list-type=2
+{{path}}

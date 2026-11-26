@@ -9,3 +9,4 @@
 /favicon.ico
 /
 /workplace/home.action
+/api/sonicos/is-sslvpn-enabled

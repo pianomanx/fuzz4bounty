@@ -1,2 +1,5 @@
 
 /api/info.json
+/login
+/login_check
+/config

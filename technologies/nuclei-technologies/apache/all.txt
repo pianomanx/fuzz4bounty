@@ -167,3 +167,7 @@
 /metrics/threads
 /api/auth/oidc/providers
 /api/auth/health
+/roller-ui/oauthKeys.rol
+/roller/roller-ui/oauthKeys.rol
+/roller-ui/login.rol
+/roller/roller-ui/login.rol

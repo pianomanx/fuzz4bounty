@@ -1571,3 +1571,11 @@
 /wp-json/appp/v1/system-info
 /playground
 /api/healthz
+/v1/onboarding/config
+/backend/v1/onboarding/config
+/v1/onboarding/config?token=
+/backend/v1/onboarding/config?token=
+/api/info
+/api/connection
+/api/sonicos/is-sslvpn-enabled
+/wp-content/plugins/wp-graphql-content-blocks/readme.txt

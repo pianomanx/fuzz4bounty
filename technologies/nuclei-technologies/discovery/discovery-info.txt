@@ -1432,3 +1432,4 @@
 /xwiki/
 /js/elfinder.min.js
 /js/elFinder.version.js
+/api/sonicos/is-sslvpn-enabled

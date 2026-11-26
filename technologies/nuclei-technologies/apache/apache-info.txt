@@ -80,3 +80,7 @@
 /health
 /openapi.json
 /ui
+/roller-ui/oauthKeys.rol
+/roller/roller-ui/oauthKeys.rol
+/roller-ui/login.rol
+/roller/roller-ui/login.rol

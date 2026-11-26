@@ -14,3 +14,4 @@
 /models
 /ping
 /api/healthz
+{{path}}
