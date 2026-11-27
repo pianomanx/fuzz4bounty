@@ -1,0 +1,3 @@
+/modules/mod_virtuemart_cart/mod_virtuemart_cart.xml
+/index.php?option=com_virtuemart&view=../../../nonexistent&tmpl=component
+/index.php?option=com_virtuemart&view=../../../configuration&tmpl=component

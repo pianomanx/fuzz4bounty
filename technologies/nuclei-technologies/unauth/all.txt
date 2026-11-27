@@ -524,3 +524,5 @@
 /wp-content/plugins/kirki/readme.txt
 /wp-content/plugins/wp-graphql-content-blocks/readme.txt
 {{path}}
+/api/public/info/
+/api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}

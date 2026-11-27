@@ -1579,3 +1579,5 @@
 /caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /typo3plugins/plugins/caddy/Resources/Public/JavaScript/e-payment/paymill/api/php/payment.php
 /api/v2?cmd=docs&callback={{marker}}(1)
+/api/public/info/
+/api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}

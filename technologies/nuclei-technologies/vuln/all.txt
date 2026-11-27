@@ -4528,3 +4528,5 @@
 /graph_image.php?local_graph_id=1&rra_id=0&show_source=1&graph_theme=midwinter/.
 /api/v2?cmd=docs&callback={{marker}}(1)
 /login_check
+/api/public/info/
+/api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}
