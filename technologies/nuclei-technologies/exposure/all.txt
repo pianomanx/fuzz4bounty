@@ -1579,3 +1579,4 @@
 /api/connection
 /api/sonicos/is-sslvpn-enabled
 /wp-content/plugins/wp-graphql-content-blocks/readme.txt
+/web/info.html

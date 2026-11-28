@@ -16,3 +16,4 @@
 /resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../index.jsp
 /resin-doc/viewfile/?file=index.jsp
 /do/job.php?job=download&url=ZGF0YS9jb25maWcucGg8
+/api/instance-info

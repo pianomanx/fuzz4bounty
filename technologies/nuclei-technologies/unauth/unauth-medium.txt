@@ -176,3 +176,5 @@
 /wp-content/plugins/wp-graphql-content-blocks/readme.txt
 /api/public/info/
 /api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}
+/?file=__new__{{randstr}}%27-alert(document.domain)-%27
+/web/info.html

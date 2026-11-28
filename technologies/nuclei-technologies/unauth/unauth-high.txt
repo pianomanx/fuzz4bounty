@@ -200,3 +200,4 @@
 /traceroute?q=--help
 /api/info
 /api/connection
+/api/instance-info

@@ -424,3 +424,4 @@
 /wp-json/appp/v1/system-info
 /playground
 /wp-content/plugins/wp-graphql-content-blocks/readme.txt
+/web/info.html

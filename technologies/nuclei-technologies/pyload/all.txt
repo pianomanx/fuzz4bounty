@@ -1,3 +1,5 @@
 /render/info.html
 
 /login
+/info
+/web/info.html

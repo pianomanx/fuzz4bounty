@@ -4530,3 +4530,4 @@
 /login_check
 /api/public/info/
 /api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}
+/web/info.html

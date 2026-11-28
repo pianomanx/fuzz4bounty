@@ -526,3 +526,6 @@
 {{path}}
 /api/public/info/
 /api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}
+/api/instance-info
+/?file=__new__{{randstr}}%27-alert(document.domain)-%27
+/web/info.html

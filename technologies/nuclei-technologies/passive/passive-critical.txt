@@ -38,3 +38,4 @@
 /ui/login
 /dana-na/nc/nc_gina_ver.txt
 /dana-na/auth/url_admin/welcome.cgi?type=inter
+/m/

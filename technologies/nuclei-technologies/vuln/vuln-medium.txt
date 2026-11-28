@@ -1581,3 +1581,5 @@
 /api/v2?cmd=docs&callback={{marker}}(1)
 /api/public/info/
 /api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}
+/info
+/web/info.html

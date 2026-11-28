@@ -90,3 +90,4 @@
 /backend/v1/onboarding/config?token=
 /bird?q=x
 /traceroute?q=--help
+/api/instance-info

